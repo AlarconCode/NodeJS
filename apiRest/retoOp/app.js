@@ -8,10 +8,10 @@ const app = express()
 const PORT = 3000
 
 app.use(express.json())
-app.use('/pelicula', peliculaRouter)
 app.use('/pelicula/actors', actorsRouter)
 app.use('/pelicula/writers', writersRouter)
 app.use('/peliculas/director', directorRouter)
+app.use('/pelicula', peliculaRouter)
 
 
 app.listen(PORT, ()=> {

@@ -3,7 +3,7 @@ import { getWriter, postWriter, putWriter, deleteWriter } from '../controller/wr
 
 const writersRouter = express.Router()
 
-writersRouter.get('/:guid', getWriter)
+writersRouter.get('/', getWriter)
 
 writersRouter.post('/', postWriter)
 

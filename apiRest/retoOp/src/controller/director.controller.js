@@ -1,4 +1,3 @@
-import express from 'express'
 import Movies from '../Movies.json' assert { type: 'json' }
 
 export const getDirector = (req, res) => {

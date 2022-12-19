@@ -4,7 +4,7 @@ import { getMovie, postMovie, putMovie, deleteMovie } from '../controller/movie.
 const movieRouter = express.Router()
 
 
-movieRouter.get('/:guid', getMovie)
+movieRouter.get('/', getMovie)
 
 movieRouter.post('/', postMovie)
 

@@ -3,10 +3,10 @@ import Movies from '../Movies.json' assert { type: 'json' }
 export const getMovie = (req, res) => {
         
     // field guid of movie by params
-    const {guid} = req.params
-
+    const {title} = req.query
+    
     // Found the movie in BBDD
-    let movie = Movies.find((movie) => movie.guid === guid)
+    let movie = Movies.find((movie) => movie.title === title)
 
     // Validate Movie and response
     let response 

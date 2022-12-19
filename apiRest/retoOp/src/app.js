@@ -1,5 +1,6 @@
 console.clear();
 import express from 'express'
+import cors from 'cors'
 import { errorHandling } from './error/errorHandling.js';
 import movieRouter from './routers/movie.js';
 import actorsRouter from './routers/actors.js';
@@ -9,6 +10,7 @@ const app = express()
 
 app.set('PORT', process.env.PORT || 3000)
 app.use(express.json())
+app.use(cors())
 app.use('/movie/actors', actorsRouter)
 app.use('/movie/writers', writersRouter)
 app.use('/movies/director', directorRouter)

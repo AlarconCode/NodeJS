@@ -1,0 +1,6367 @@
+[
+  {
+    "_id": "63a09a921ddf0ab46c9444ea",
+    "guid": "04bb496e-8148-4245-86a8-3b734ed2e334",
+    "title": "Exercitation laboris cillum commodo et.",
+    "actors": [
+      {
+        "idActor": "63a09a926fe0799bb4a6d7ba",
+        "guidActor": "21fda3ff-d383-44c8-8b63-e09d1cc3a03e",
+        "name": "Gaines Stephens",
+        "age": 41,
+        "weight": 148,
+        "isRetired": false,
+        "nationality": "Portugal",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a920630aa5e7f60d5e2",
+        "guidActor": "e544670c-603b-46f0-8262-0161beeee4e4",
+        "name": "Melva Flowers",
+        "age": 55,
+        "weight": 144,
+        "isRetired": false,
+        "nationality": "Malaysia",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9257bc444cb538f61c",
+        "guidActor": "a1c8d4c5-6769-4697-b8fc-9dbd3434ab52",
+        "name": "Shaffer Santana",
+        "age": 64,
+        "weight": 71,
+        "isRetired": false,
+        "nationality": "San Marino",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9264b11b1854c260c8",
+        "guid": "0b8454c4-fd92-4202-aa6d-804f4540b76e",
+        "name": "Cameron Knowles",
+        "age": 23,
+        "weight": 107,
+        "isRetired": false,
+        "nationality": "Taiwan",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92a8da09b60a44d3a0",
+      "guidDirector": "79269a0c-80ab-4497-80f7-b5538e9afef6",
+      "name": "Martinez Lindsey",
+      "age": 37,
+      "weight": 102,
+      "isRetired": true,
+      "nationality": "Belize",
+      "oscarNumber": 3,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92fa6c6ac9bce5673e",
+        "guidWriter": "9b47ee03-dcc7-4e42-96db-81fe392137ad",
+        "name": "Fuentes Tyson",
+        "age": 67,
+        "weight": 86,
+        "isRetired": false,
+        "nationality": "Zambia",
+        "oscarNumber": 7,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a927e7e63fe18f556c7",
+        "guidWriter": "cea8bd0b-d59e-4f25-84fe-00269d9915e8",
+        "name": "Oconnor Wyatt",
+        "age": 25,
+        "weight": 103,
+        "isRetired": false,
+        "nationality": "Afghanistan",
+        "oscarNumber": 3,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2019,
+    "nationality": "Peru",
+    "language": "Spanish",
+    "platfotm": "esse",
+    "isMCU": true,
+    "mainCharacterName": "Pearl Gaines",
+    "producer": "consectetur",
+    "distributor": "consectetur",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a9202d7229c9e98fdb8",
+    "guid": "5e7c0c31-6ce4-4a26-9fdc-0f0796aff0c7",
+    "title": "Eiusmod officia ut ullamco irure deserunt labore ad ad adipisicing ullamco.",
+    "actors": [
+      {
+        "idActor": "63a09a927938f0bba4720667",
+        "guidActor": "231e67b5-24d1-48b8-9e96-bede49b7c18d",
+        "name": "Hunt Fletcher",
+        "age": 23,
+        "weight": 102,
+        "isRetired": false,
+        "nationality": "Ghana",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92fde762dca4e4ceaa",
+        "guidActor": "db8e9bb2-2cc4-4a65-8d5b-42d0c4c6ad05",
+        "name": "Blevins Briggs",
+        "age": 28,
+        "weight": 95,
+        "isRetired": true,
+        "nationality": "Solomon Islands",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92a45c58fc7ca8ae10",
+        "guidActor": "e9654a7e-1c2c-43c1-b3a9-3ac38a812539",
+        "name": "Gayle Branch",
+        "age": 31,
+        "weight": 121,
+        "isRetired": false,
+        "nationality": "Armenia",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f455df95721a71d8",
+        "guid": "b166dc28-7796-4397-b2ce-c8c7e56760e0",
+        "name": "Bette Dodson",
+        "age": 31,
+        "weight": 108,
+        "isRetired": true,
+        "nationality": "Namibia",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92e3b7e210ff127bab",
+      "guidDirector": "f7a19178-1361-4a67-8470-647e9075d4c7",
+      "name": "Crystal Guerra",
+      "age": 39,
+      "weight": 131,
+      "isRetired": true,
+      "nationality": "Zimbabwe",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92531aaa77d93a49c4",
+        "guidWriter": "df8ff9d5-8906-42b0-a75b-bf8304981227",
+        "name": "Beasley Beard",
+        "age": 49,
+        "weight": 145,
+        "isRetired": false,
+        "nationality": "Guinea",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92cdc0aaef2005aa2a",
+        "guidWriter": "dc74e36b-d46d-40d2-b1c3-c51c98dd64a5",
+        "name": "Kristi Bray",
+        "age": 56,
+        "weight": 100,
+        "isRetired": true,
+        "nationality": "Fiji",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2017,
+    "nationality": "Somalia",
+    "language": "English",
+    "platfotm": "tempor",
+    "isMCU": true,
+    "mainCharacterName": "Barbra Mays",
+    "producer": "deserunt",
+    "distributor": "ut",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a923701a876fb19d7ca",
+    "guid": "505b4f56-e9a3-4739-ba70-2e123e9901dc",
+    "title": "Deserunt consequat non sit anim.",
+    "actors": [
+      {
+        "idActor": "63a09a927ddc179d5546f1ba",
+        "guidActor": "5e50cbfb-e394-4fd2-a5d0-f916f660c3a4",
+        "name": "Stone Parker",
+        "age": 53,
+        "weight": 90,
+        "isRetired": true,
+        "nationality": "Chad",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a927481c3c2ef5d1df0",
+        "guidActor": "bdbc950b-ed8e-4094-a59c-efb4e388da96",
+        "name": "Katy Donovan",
+        "age": 25,
+        "weight": 82,
+        "isRetired": false,
+        "nationality": "Israel",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92867029c7759936af",
+        "guidActor": "72229577-c5b9-436a-a556-c7ae0fbac720",
+        "name": "Henry Wiggins",
+        "age": 22,
+        "weight": 86,
+        "isRetired": true,
+        "nationality": "Monaco",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92cf4657842d990276",
+        "guid": "cf358ec6-1be8-4e4d-a13c-f0817c5e382d",
+        "name": "Cherry Morris",
+        "age": 62,
+        "weight": 73,
+        "isRetired": false,
+        "nationality": "Venezuela",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92c14a664d593d9350",
+      "guidDirector": "20ee2d6f-aaf0-45ba-919f-1ef2e5004f8c",
+      "name": "Britney Combs",
+      "age": 26,
+      "weight": 79,
+      "isRetired": true,
+      "nationality": "Iran",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a920f7e6be029bae9dd",
+        "guidWriter": "a8d881e2-63b1-4f67-b9cc-9784379bedd5",
+        "name": "Barker Black",
+        "age": 46,
+        "weight": 143,
+        "isRetired": false,
+        "nationality": "Mauritania",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a924bb057eaa85188f4",
+        "guidWriter": "f09e78e3-6bd6-4093-8869-3d4337aff4f9",
+        "name": "Cooper Lynch",
+        "age": 61,
+        "weight": 111,
+        "isRetired": true,
+        "nationality": "Cameroon",
+        "oscarNumber": 5,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "St. Pierre and Miquelon",
+    "language": "English",
+    "platfotm": "aute",
+    "isMCU": false,
+    "mainCharacterName": "Alyssa Clayton",
+    "producer": "sint",
+    "distributor": "ad",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92a7882fa7b2263eb7",
+    "guid": "b5b19309-fc03-4a2c-9e94-d30f831df433",
+    "title": "Aliqua ad culpa aliquip consequat excepteur do esse officia reprehenderit.",
+    "actors": [
+      {
+        "idActor": "63a09a926942afac5b5e5847",
+        "guidActor": "9b2bb123-0e98-4168-869e-0ba9dbccaca0",
+        "name": "Paulette Hays",
+        "age": 59,
+        "weight": 83,
+        "isRetired": true,
+        "nationality": "Uruguay",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92d8bad347b9d05dc3",
+        "guidActor": "80a5f535-271d-4533-9be4-4c2279412e68",
+        "name": "Constance Knight",
+        "age": 41,
+        "weight": 119,
+        "isRetired": false,
+        "nationality": "Guadeloupe",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e9a6a8325c059b8a",
+        "guidActor": "b919eaf3-6516-4dd7-a592-d78ffbc02621",
+        "name": "Norma Middleton",
+        "age": 21,
+        "weight": 114,
+        "isRetired": false,
+        "nationality": "France, Metropolitan",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92d100b65f88cc35ed",
+        "guid": "4c669687-3762-415a-b4ef-ed4b77f941b9",
+        "name": "Della Frederick",
+        "age": 21,
+        "weight": 117,
+        "isRetired": false,
+        "nationality": "Burundi",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a926286726390a5b9c5",
+      "guidDirector": "05c7d8fa-4c5d-4ff9-a56e-8490f57dd51c",
+      "name": "Erica Cunningham",
+      "age": 53,
+      "weight": 142,
+      "isRetired": true,
+      "nationality": "Switzerland",
+      "oscarNumber": 3,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a922399ffde873d1bca",
+        "guidWriter": "76bdf90d-cd67-4dff-b185-0c57e5db266b",
+        "name": "Gonzales Jenkins",
+        "age": 55,
+        "weight": 149,
+        "isRetired": true,
+        "nationality": "Western Sahara",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92fb495936c8b1f314",
+        "guidWriter": "9552b6d7-73f9-46be-b0c3-66a919a101e9",
+        "name": "Chandler Davenport",
+        "age": 50,
+        "weight": 136,
+        "isRetired": false,
+        "nationality": "Faroe Islands",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Kazakhstan",
+    "language": "Italian",
+    "platfotm": "reprehenderit",
+    "isMCU": true,
+    "mainCharacterName": "Emilia Rutledge",
+    "producer": "eiusmod",
+    "distributor": "duis",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a92c612bd6b68f3a68c",
+    "guid": "14038b98-52a9-44f1-a398-441c7a134859",
+    "title": "Irure eu nulla Lorem incididunt voluptate ut non pariatur ea consequat minim in esse.",
+    "actors": [
+      {
+        "idActor": "63a09a92f62c194eacce39a8",
+        "guidActor": "d650c215-8070-4dd0-81e8-8c37a6b92333",
+        "name": "Leonor Page",
+        "age": 39,
+        "weight": 150,
+        "isRetired": false,
+        "nationality": "Zaire",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92667713c914fd0e37",
+        "guidActor": "32f9d7be-6433-4705-a1cf-f2d6c059bf9d",
+        "name": "Sanchez Bridges",
+        "age": 29,
+        "weight": 92,
+        "isRetired": true,
+        "nationality": "Kuwait",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9242f4f5c49c13b946",
+        "guidActor": "9cce4e0d-d3b4-4adb-a1bf-763c2513665e",
+        "name": "Sandoval Robbins",
+        "age": 47,
+        "weight": 116,
+        "isRetired": false,
+        "nationality": "Lithuania",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f5b757a9cb0003c4",
+        "guid": "b49182b2-3aaf-4fda-906b-57c77492eeb0",
+        "name": "Pace Hooper",
+        "age": 38,
+        "weight": 73,
+        "isRetired": true,
+        "nationality": "Niue",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92ee30f26f6729cff2",
+      "guidDirector": "d6db5b2a-a51e-4f4a-b95f-83e77b978835",
+      "name": "Woodard Fischer",
+      "age": 32,
+      "weight": 76,
+      "isRetired": true,
+      "nationality": "Nepal",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92fe5377e17975cd99",
+        "guidWriter": "bb2fa166-1477-4a6b-8696-d9dca2b4b5d2",
+        "name": "Lilia Weber",
+        "age": 28,
+        "weight": 85,
+        "isRetired": false,
+        "nationality": "Swaziland",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a921e7757c86070ab75",
+        "guidWriter": "672218dc-6225-4b8a-982f-5bb972159d9c",
+        "name": "Owen Reeves",
+        "age": 37,
+        "weight": 128,
+        "isRetired": false,
+        "nationality": "Austria",
+        "oscarNumber": 1,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "British Indian Ocean Territory",
+    "language": "English",
+    "platfotm": "cillum",
+    "isMCU": false,
+    "mainCharacterName": "Imelda Dickerson",
+    "producer": "Lorem",
+    "distributor": "laborum",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92b4edf6737e179c1a",
+    "guid": "294ed646-30bd-4216-bf6f-2a760c6bc58e",
+    "title": "Ea do tempor fugiat adipisicing.",
+    "actors": [
+      {
+        "idActor": "63a09a9269696e8a0f5aa3d8",
+        "guidActor": "bb2d16e8-5d65-4cc6-860f-5ed7d861f18d",
+        "name": "Debra Stuart",
+        "age": 27,
+        "weight": 106,
+        "isRetired": true,
+        "nationality": "Bermuda",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9237450341dfc71d2f",
+        "guidActor": "4e55ccd4-856b-40de-8259-e8a8f006b4eb",
+        "name": "Puckett Rice",
+        "age": 56,
+        "weight": 125,
+        "isRetired": false,
+        "nationality": "Martinique",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92fce4edd2bd91d9c4",
+        "guidActor": "2f250e44-cb30-45f8-91ca-6f4916ad525d",
+        "name": "Head Frye",
+        "age": 68,
+        "weight": 66,
+        "isRetired": false,
+        "nationality": "Thailand",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e5f1b8734b9f2197",
+        "guid": "0bf5972e-9891-45e6-a0a3-16a2de07e541",
+        "name": "Lawrence Bonner",
+        "age": 58,
+        "weight": 102,
+        "isRetired": true,
+        "nationality": "Christmas Island",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92d0221290f038ac0a",
+      "guidDirector": "6c8498ee-0b30-4ac9-b5d4-c2dfa1d5d7bc",
+      "name": "Mosley Garrison",
+      "age": 21,
+      "weight": 130,
+      "isRetired": true,
+      "nationality": "Virgin Islands (British)",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92aec0041b0303e72e",
+        "guidWriter": "3dd26b04-c819-4b80-9e91-7f22a1260dee",
+        "name": "Earline Mullins",
+        "age": 62,
+        "weight": 85,
+        "isRetired": false,
+        "nationality": "Egypt",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92b6feea68c4bb5b49",
+        "guidWriter": "9ac2124e-4c68-4ff8-8493-7a1aa849693c",
+        "name": "Dorothy Francis",
+        "age": 21,
+        "weight": 118,
+        "isRetired": true,
+        "nationality": "Bahamas",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Gibraltar",
+    "language": "English",
+    "platfotm": "nulla",
+    "isMCU": true,
+    "mainCharacterName": "Tracy Cameron",
+    "producer": "voluptate",
+    "distributor": "aliquip",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92f5af8f1b398ff017",
+    "guid": "de6fc33e-40dc-4972-ae1a-19142a4574b5",
+    "title": "Pariatur laboris veniam elit cupidatat sint.",
+    "actors": [
+      {
+        "idActor": "63a09a924040b6b1a9d1b386",
+        "guidActor": "251d5a3e-71f9-4aaa-9743-ae5e17e8a6ff",
+        "name": "Dillard Hensley",
+        "age": 38,
+        "weight": 120,
+        "isRetired": false,
+        "nationality": "India",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92148a834d3961a32b",
+        "guidActor": "af7ad808-0c1d-4a39-b721-b1a09b9540eb",
+        "name": "Wilkerson Fitzpatrick",
+        "age": 45,
+        "weight": 73,
+        "isRetired": false,
+        "nationality": "Burkina Faso",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92292e204371cff883",
+        "guidActor": "348f36f0-25e9-43da-8948-f1fbc7cf0b33",
+        "name": "Blair Huffman",
+        "age": 34,
+        "weight": 116,
+        "isRetired": false,
+        "nationality": "Ukraine",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f6f34d7b53447183",
+        "guid": "5deb9cb6-a869-4c76-975a-d287d09303be",
+        "name": "Lewis Velasquez",
+        "age": 66,
+        "weight": 126,
+        "isRetired": true,
+        "nationality": "Morocco",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a922a8b8aaae323084e",
+      "guidDirector": "98e20d71-3938-45c8-84e3-897ada96255f",
+      "name": "Vera Hurst",
+      "age": 56,
+      "weight": 60,
+      "isRetired": true,
+      "nationality": "Sao Tome and Principe",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9258a9a0f62a2f3637",
+        "guidWriter": "c83bf7c4-a8c2-4b76-ac41-2b31e724d255",
+        "name": "Jami Horn",
+        "age": 56,
+        "weight": 66,
+        "isRetired": true,
+        "nationality": "Japan",
+        "oscarNumber": 7,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92db6aebdb4048976c",
+        "guidWriter": "7158912e-0ae7-44f8-8cb6-f4ed68c3d890",
+        "name": "Lorena Landry",
+        "age": 29,
+        "weight": 72,
+        "isRetired": true,
+        "nationality": "Tonga",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2019,
+    "nationality": "American Samoa",
+    "language": "English",
+    "platfotm": "cupidatat",
+    "isMCU": false,
+    "mainCharacterName": "Beulah Gamble",
+    "producer": "magna",
+    "distributor": "exercitation",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a9235128cd43225e7df",
+    "guid": "3f47ea0b-e109-43ad-bf74-47f57b125602",
+    "title": "Consequat non elit eu Lorem aute laboris.",
+    "actors": [
+      {
+        "idActor": "63a09a92bcac801d90afb12a",
+        "guidActor": "66328989-48fd-4296-8dcf-e79123e25557",
+        "name": "Barron Ortega",
+        "age": 61,
+        "weight": 106,
+        "isRetired": false,
+        "nationality": "Sierra Leone",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e53726aefaebedb8",
+        "guidActor": "35718165-5c00-40eb-8a42-2cb3a4c2e6f1",
+        "name": "Jacklyn Lara",
+        "age": 55,
+        "weight": 143,
+        "isRetired": true,
+        "nationality": "Congo",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a923e0abae96d62501a",
+        "guidActor": "a35812ed-5ced-4c9f-b2ed-2acc7d4886f3",
+        "name": "Shauna William",
+        "age": 55,
+        "weight": 88,
+        "isRetired": false,
+        "nationality": "Saint Kitts and Nevis",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a923148440b96a4fea0",
+        "guid": "f7b145c6-1215-4968-8062-5f179ac116f4",
+        "name": "Vazquez Vasquez",
+        "age": 32,
+        "weight": 145,
+        "isRetired": true,
+        "nationality": "Marshall Islands",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9283b421db2c51a6d5",
+      "guidDirector": "8edc22d0-bea6-4e9c-920a-9d694f3c8047",
+      "name": "Latoya Morton",
+      "age": 49,
+      "weight": 80,
+      "isRetired": true,
+      "nationality": "Spain",
+      "oscarNumber": 5,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92c4f28b99edd24164",
+        "guidWriter": "4dd7e4ce-a749-4505-a627-a69314b74a53",
+        "name": "Janine Tillman",
+        "age": 40,
+        "weight": 121,
+        "isRetired": true,
+        "nationality": "Ethiopia",
+        "oscarNumber": 5,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92414f30ff47f0021f",
+        "guidWriter": "a590614e-0fdc-4482-9ac9-ca466d5af4bc",
+        "name": "Pacheco Mccoy",
+        "age": 45,
+        "weight": 100,
+        "isRetired": true,
+        "nationality": "Bahrain",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2021,
+    "nationality": "Brunei Darussalam",
+    "language": "Spanish",
+    "platfotm": "mollit",
+    "isMCU": true,
+    "mainCharacterName": "Nona Graham",
+    "producer": "in",
+    "distributor": "deserunt",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a92b7a2ba5faf1810ab",
+    "guid": "3be9d2fc-79f1-4820-b57f-113f45f989c7",
+    "title": "Ullamco incididunt laborum dolor nulla elit fugiat.",
+    "actors": [
+      {
+        "idActor": "63a09a92d09e4c92704c9258",
+        "guidActor": "5d926205-204b-4e36-bef4-38a8fbab3d61",
+        "name": "Terra Brock",
+        "age": 66,
+        "weight": 64,
+        "isRetired": false,
+        "nationality": "Angola",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92a1ec817c30555e34",
+        "guidActor": "7a0494dd-6509-4506-b01f-b49a32816316",
+        "name": "Kaye Weiss",
+        "age": 47,
+        "weight": 92,
+        "isRetired": false,
+        "nationality": "Maldives",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f1227e50e66593a2",
+        "guidActor": "e1b10474-ea3e-4d9b-b410-5e0f1ca3f62c",
+        "name": "Graciela Cross",
+        "age": 63,
+        "weight": 131,
+        "isRetired": false,
+        "nationality": "Heard and McDonald Islands",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92ba91b0e6cd98ce24",
+        "guid": "1457ac9f-1f6c-4390-8dda-4c55e6a474e2",
+        "name": "Knowles Mason",
+        "age": 44,
+        "weight": 124,
+        "isRetired": true,
+        "nationality": "Cote D'Ivoire (Ivory Coast)",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92cb8646d417cbe058",
+      "guidDirector": "95ae473e-bded-4ac7-b353-b0c60c9c2a34",
+      "name": "Schultz Wiley",
+      "age": 45,
+      "weight": 108,
+      "isRetired": true,
+      "nationality": "New Caledonia",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9269ecb7cb998cf4f4",
+        "guidWriter": "af95c335-abbb-4f47-8102-b0999ca393a0",
+        "name": "English Banks",
+        "age": 70,
+        "weight": 75,
+        "isRetired": false,
+        "nationality": "Korea (North)",
+        "oscarNumber": 5,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92b58bec92fb39ca5a",
+        "guidWriter": "587dfaa5-9361-4654-94b7-e45cc4a41399",
+        "name": "Terri Snider",
+        "age": 22,
+        "weight": 147,
+        "isRetired": false,
+        "nationality": "Guinea-Bissau",
+        "oscarNumber": 5,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2019,
+    "nationality": "Montserrat",
+    "language": "Italian",
+    "platfotm": "reprehenderit",
+    "isMCU": false,
+    "mainCharacterName": "Aline King",
+    "producer": "et",
+    "distributor": "amet",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a929a1b358961996d2a",
+    "guid": "909bab88-5c7c-45a1-92ba-702cd8be18d9",
+    "title": "Sit labore eiusmod magna labore sint adipisicing laboris consectetur esse dolore qui enim.",
+    "actors": [
+      {
+        "idActor": "63a09a9243e2b1f3bb0bd837",
+        "guidActor": "711be668-a414-44e1-a52a-6a0e50d5b8b6",
+        "name": "Johns Moses",
+        "age": 34,
+        "weight": 105,
+        "isRetired": false,
+        "nationality": "Mexico",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9203ec09ff6e790d00",
+        "guidActor": "fbd0593c-2c1d-48ca-98bd-df6b8e07ff49",
+        "name": "Candace Berger",
+        "age": 53,
+        "weight": 68,
+        "isRetired": true,
+        "nationality": "Singapore",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9201dfcbf3ef0dfad5",
+        "guidActor": "374c6629-b269-49d2-a18e-aa05d0641c1a",
+        "name": "Kim Kim",
+        "age": 58,
+        "weight": 136,
+        "isRetired": true,
+        "nationality": "Dominican Republic",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e37b4a5d8c84b4f7",
+        "guid": "a1d2230f-bb50-49d5-b61e-185a1dc444df",
+        "name": "Nellie Spears",
+        "age": 27,
+        "weight": 145,
+        "isRetired": false,
+        "nationality": "Tajikistan",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92e69180f08c34da77",
+      "guidDirector": "625cfd8b-9f31-4bbe-b93d-f933ce4fcae6",
+      "name": "Arline Miles",
+      "age": 48,
+      "weight": 144,
+      "isRetired": false,
+      "nationality": "Nauru",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92f8f3fd8241b7745e",
+        "guidWriter": "bc81d6f2-0d4f-4dca-9f1a-167613b54f33",
+        "name": "Darlene Blankenship",
+        "age": 47,
+        "weight": 110,
+        "isRetired": false,
+        "nationality": "Cape Verde",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92970e76e524f91db2",
+        "guidWriter": "d3ed3c3c-9ac5-47ac-9ed6-894f7660156d",
+        "name": "Gena Pitts",
+        "age": 38,
+        "weight": 133,
+        "isRetired": false,
+        "nationality": "Denmark",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2015,
+    "nationality": "Falkland Islands (Malvinas)",
+    "language": "English",
+    "platfotm": "est",
+    "isMCU": false,
+    "mainCharacterName": "Whitney Tyler",
+    "producer": "reprehenderit",
+    "distributor": "officia",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92c256aec7bef6120c",
+    "guid": "16f40ce0-c693-4d76-9aae-f1b3fdf31fde",
+    "title": "Do reprehenderit proident veniam consequat mollit fugiat duis ad aliqua irure nulla.",
+    "actors": [
+      {
+        "idActor": "63a09a92827cb1e573b03799",
+        "guidActor": "e8b3af26-4a64-4553-b804-6d726fff09c1",
+        "name": "Erickson Harding",
+        "age": 45,
+        "weight": 130,
+        "isRetired": false,
+        "nationality": "Turkmenistan",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a920fb0ae00fb7f51c7",
+        "guidActor": "f8159813-3e6a-4348-b474-54bddd73b544",
+        "name": "Lupe Frazier",
+        "age": 70,
+        "weight": 143,
+        "isRetired": true,
+        "nationality": "Estonia",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921aa70c59c0e48f7f",
+        "guidActor": "8d65a339-5247-45ec-80dd-8c4aa562895b",
+        "name": "Garza Daniels",
+        "age": 47,
+        "weight": 72,
+        "isRetired": false,
+        "nationality": "Djibouti",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92103fb0966cb94e91",
+        "guid": "f102d808-19ec-4899-9e03-a3a37fc654a7",
+        "name": "Allie Powers",
+        "age": 51,
+        "weight": 144,
+        "isRetired": true,
+        "nationality": "Turks and Caicos Islands",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92e7a925224171a82c",
+      "guidDirector": "27018178-2c0b-4dec-a979-4a0c2bf9c023",
+      "name": "Diaz Richards",
+      "age": 32,
+      "weight": 126,
+      "isRetired": true,
+      "nationality": "Anguilla",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92e1bbfb5d769f34cd",
+        "guidWriter": "5e6358e5-7a32-4c43-8532-3aa62a15fbdc",
+        "name": "Bonner Trevino",
+        "age": 22,
+        "weight": 90,
+        "isRetired": true,
+        "nationality": "Palau",
+        "oscarNumber": 5,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92fa3987693892b514",
+        "guidWriter": "1f75e85d-e9e1-4784-b762-573c4d80d4fd",
+        "name": "Freeman Mcfadden",
+        "age": 56,
+        "weight": 119,
+        "isRetired": false,
+        "nationality": "Sri Lanka",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2017,
+    "nationality": "French Polynesia",
+    "language": "English",
+    "platfotm": "anim",
+    "isMCU": true,
+    "mainCharacterName": "Larson Holder",
+    "producer": "in",
+    "distributor": "quis",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92783fe5499103195b",
+    "guid": "a0bc5c57-99d7-487d-9883-e3466074d570",
+    "title": "Tempor elit nulla pariatur do et officia.",
+    "actors": [
+      {
+        "idActor": "63a09a925346d7215805a425",
+        "guidActor": "c4134fa0-05cf-4c66-8f26-7d70392fcf38",
+        "name": "Murphy Mooney",
+        "age": 46,
+        "weight": 143,
+        "isRetired": false,
+        "nationality": "Haiti",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92db60f6620c6224f6",
+        "guidActor": "71256309-6b6d-44b4-9f2d-66cac61dced6",
+        "name": "Lancaster Davidson",
+        "age": 38,
+        "weight": 84,
+        "isRetired": false,
+        "nationality": "Bouvet Island",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a920cfa16c7d0889cc1",
+        "guidActor": "28d48eab-e15b-402e-aa88-107761a9644f",
+        "name": "Sherman England",
+        "age": 68,
+        "weight": 138,
+        "isRetired": false,
+        "nationality": "Myanmar",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9252fffba25e511645",
+        "guid": "5d9a1bd1-bef5-4c68-af2a-5fbb68d7c337",
+        "name": "Estella Sullivan",
+        "age": 39,
+        "weight": 127,
+        "isRetired": true,
+        "nationality": "Sweden",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92cdd8cf7144794bd8",
+      "guidDirector": "19ebd2ca-1130-4d9a-b7c4-d476a297d66a",
+      "name": "Keisha Heath",
+      "age": 28,
+      "weight": 103,
+      "isRetired": false,
+      "nationality": "Greece",
+      "oscarNumber": 3,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92764a2b7a3d5a786e",
+        "guidWriter": "8458e86b-59c3-4b4b-a7e6-22d53c83b7b7",
+        "name": "Harvey Wagner",
+        "age": 26,
+        "weight": 126,
+        "isRetired": true,
+        "nationality": "Tokelau",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a929fe75b9893603769",
+        "guidWriter": "0353bff9-07ae-443b-9165-0426575153e3",
+        "name": "Tia Lester",
+        "age": 46,
+        "weight": 101,
+        "isRetired": false,
+        "nationality": "Cuba",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2019,
+    "nationality": "United States",
+    "language": "Italian",
+    "platfotm": "nisi",
+    "isMCU": false,
+    "mainCharacterName": "Bailey Ball",
+    "producer": "deserunt",
+    "distributor": "magna",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a924ac0b7b509113343",
+    "guid": "84eeb2ea-27ad-4f76-9e82-716673f1a523",
+    "title": "Ea irure in ea est dolore.",
+    "actors": [
+      {
+        "idActor": "63a09a92a0cfb595673130af",
+        "guidActor": "263e80fd-da2d-47b8-8421-b5edc4a3153f",
+        "name": "Esmeralda Walker",
+        "age": 26,
+        "weight": 119,
+        "isRetired": true,
+        "nationality": "South Africa",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92897bff764eadfc66",
+        "guidActor": "8632408a-9687-4c13-a4a8-b35b6032e672",
+        "name": "Maricela Guerrero",
+        "age": 24,
+        "weight": 143,
+        "isRetired": true,
+        "nationality": "Grenada",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9286cface9b1243ff4",
+        "guidActor": "c46f4ee9-ca1e-48ef-8ebf-5a9c3bf46920",
+        "name": "Buckley Valentine",
+        "age": 54,
+        "weight": 109,
+        "isRetired": false,
+        "nationality": "Botswana",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f48d3e051d4dff09",
+        "guid": "999c9f70-3a4a-48fe-a0a1-e7eed6aea1a1",
+        "name": "Alma Dudley",
+        "age": 43,
+        "weight": 114,
+        "isRetired": true,
+        "nationality": "Trinidad and Tobago",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92a98ae90b94374cb0",
+      "guidDirector": "29171315-efe5-4cc7-8072-92f76e2e09a4",
+      "name": "Carissa Mccray",
+      "age": 29,
+      "weight": 116,
+      "isRetired": false,
+      "nationality": "Tanzania",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a922206bbfe01b97049",
+        "guidWriter": "d258ef33-2dd1-4014-8d0f-33bcc685e963",
+        "name": "Rose Sweet",
+        "age": 61,
+        "weight": 90,
+        "isRetired": false,
+        "nationality": "China",
+        "oscarNumber": 5,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92d2ea94ddaabed576",
+        "guidWriter": "6aed08e1-32bc-49cb-9e46-570e93c626a7",
+        "name": "Loraine Romero",
+        "age": 46,
+        "weight": 75,
+        "isRetired": true,
+        "nationality": "Latvia",
+        "oscarNumber": 5,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Guam",
+    "language": "Spanish",
+    "platfotm": "irure",
+    "isMCU": true,
+    "mainCharacterName": "Barnes Dickson",
+    "producer": "mollit",
+    "distributor": "laborum",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a9271a11cb06da21d3e",
+    "guid": "a36e5015-143b-415d-9401-e1ae8ce503b6",
+    "title": "Ad magna ad ea culpa ullamco commodo nulla aliqua amet consequat non non.",
+    "actors": [
+      {
+        "idActor": "63a09a92e83435f03737c3f6",
+        "guidActor": "c83f4ff1-be3f-4133-8c28-239c11c9e930",
+        "name": "Angel Kennedy",
+        "age": 42,
+        "weight": 82,
+        "isRetired": true,
+        "nationality": "Honduras",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92eb297a917cc26dce",
+        "guidActor": "10870db3-bebc-4cac-b9a5-ee43397871fe",
+        "name": "Lawanda Thomas",
+        "age": 45,
+        "weight": 85,
+        "isRetired": false,
+        "nationality": "Australia",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a925a610409707e2cec",
+        "guidActor": "79bffb97-55ef-4586-808b-2af56a1aa01a",
+        "name": "Ruthie Chandler",
+        "age": 30,
+        "weight": 85,
+        "isRetired": false,
+        "nationality": "El Salvador",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a924f3f8d10d9dde198",
+        "guid": "a076e5fd-2e35-4919-8e6b-1a39e147f2c3",
+        "name": "Salazar Sosa",
+        "age": 55,
+        "weight": 70,
+        "isRetired": false,
+        "nationality": "Kyrgyzstan",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92ef36d9baeb1e9bde",
+      "guidDirector": "eeabf6b2-b600-4f2c-92b4-18148353bf84",
+      "name": "Cruz Craft",
+      "age": 28,
+      "weight": 125,
+      "isRetired": true,
+      "nationality": "Pitcairn",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a929101543b727063f9",
+        "guidWriter": "b05f2ed1-f57f-4bfb-a26f-2aee386fc085",
+        "name": "Earlene Coleman",
+        "age": 69,
+        "weight": 121,
+        "isRetired": false,
+        "nationality": "Samoa",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92696d5949791d5254",
+        "guidWriter": "6ee6cb43-ac16-424d-9780-4f6a7b1fdd00",
+        "name": "Underwood Jarvis",
+        "age": 20,
+        "weight": 62,
+        "isRetired": true,
+        "nationality": "Niger",
+        "oscarNumber": 5,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2021,
+    "nationality": "Liberia",
+    "language": "English",
+    "platfotm": "est",
+    "isMCU": true,
+    "mainCharacterName": "Leonard Cotton",
+    "producer": "irure",
+    "distributor": "quis",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92e4a6b92139aca50b",
+    "guid": "22b793f7-8468-4dda-a54e-da9b934bbdeb",
+    "title": "Minim aliqua commodo eiusmod consectetur.",
+    "actors": [
+      {
+        "idActor": "63a09a92bf116806d6372aff",
+        "guidActor": "6eecd181-cd2c-4a30-95d2-62e632d7773f",
+        "name": "Carole Williamson",
+        "age": 57,
+        "weight": 112,
+        "isRetired": false,
+        "nationality": "Pakistan",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f0e81898f646986c",
+        "guidActor": "0dc06eb8-b681-4079-951d-6c2513e520fb",
+        "name": "Webb Perez",
+        "age": 31,
+        "weight": 126,
+        "isRetired": false,
+        "nationality": "Antarctica",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921fe7ffb0f72e22cb",
+        "guidActor": "11e5e25c-1cfb-465b-ba10-b7b49baf1559",
+        "name": "Frederick Peck",
+        "age": 25,
+        "weight": 90,
+        "isRetired": true,
+        "nationality": "Viet Nam",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9246d6d2bfee49d59f",
+        "guid": "76b03a0b-d315-4c6f-9fd8-fe75ef052b08",
+        "name": "Corrine Drake",
+        "age": 29,
+        "weight": 102,
+        "isRetired": false,
+        "nationality": "Aruba",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92826136b7c45b14f3",
+      "guidDirector": "f0b0280f-b321-4b29-b868-4fe7c77ce18c",
+      "name": "Black Maynard",
+      "age": 50,
+      "weight": 111,
+      "isRetired": true,
+      "nationality": "Qatar",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a925a3739a3cea656fd",
+        "guidWriter": "a1889b90-c053-46ff-a08c-7523bdcb5c82",
+        "name": "Bridgett Warner",
+        "age": 65,
+        "weight": 148,
+        "isRetired": false,
+        "nationality": "Netherlands Antilles",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92931b70a90fcfd979",
+        "guidWriter": "9da92a15-0034-4a1a-8d2f-10d82079241f",
+        "name": "Burns Alvarado",
+        "age": 51,
+        "weight": 67,
+        "isRetired": false,
+        "nationality": "Colombia",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2015,
+    "nationality": "Uzbekistan",
+    "language": "English",
+    "platfotm": "dolor",
+    "isMCU": false,
+    "mainCharacterName": "Mandy Saunders",
+    "producer": "aliquip",
+    "distributor": "adipisicing",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92dd1475bb5f87945b",
+    "guid": "3359f7c1-4a00-4e56-9d28-847040e8c4fa",
+    "title": "Elit aliqua labore nisi cillum labore Lorem sunt officia dolore esse nostrud.",
+    "actors": [
+      {
+        "idActor": "63a09a9234ef63b74377039f",
+        "guidActor": "305e9f06-5488-4906-b72e-813a63f1cc34",
+        "name": "Sharlene Dean",
+        "age": 67,
+        "weight": 70,
+        "isRetired": true,
+        "nationality": "St. Helena",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e1a69574fb19fe85",
+        "guidActor": "cc8fb25f-2b8c-4cca-bc11-c48efd4b8151",
+        "name": "Lavonne Sandoval",
+        "age": 68,
+        "weight": 61,
+        "isRetired": true,
+        "nationality": "Suriname",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92d3a5f121d7cdac24",
+        "guidActor": "1c1b97ab-e8d8-47e7-b7e8-8820e83af207",
+        "name": "Hawkins Richmond",
+        "age": 23,
+        "weight": 64,
+        "isRetired": false,
+        "nationality": "Canada",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92dae503c66eaa5b73",
+        "guid": "69a5fa1f-e991-4eae-80c3-3aa230a77bd9",
+        "name": "Taylor Roman",
+        "age": 28,
+        "weight": 79,
+        "isRetired": false,
+        "nationality": "Saudi Arabia",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92f96913858caec072",
+      "guidDirector": "a9fbc8b8-576c-4060-8c4a-b0004189790e",
+      "name": "Marylou Holloway",
+      "age": 68,
+      "weight": 64,
+      "isRetired": true,
+      "nationality": "Liechtenstein",
+      "oscarNumber": 7,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a926a07b92fd65c0e4d",
+        "guidWriter": "c0eed205-62d4-4c85-8c44-677722a52634",
+        "name": "Rodriquez Chavez",
+        "age": 48,
+        "weight": 99,
+        "isRetired": false,
+        "nationality": "Guatemala",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a922c2d227c9a13d505",
+        "guidWriter": "147a0d92-9ccf-4593-846c-550e8d357417",
+        "name": "Robbins Armstrong",
+        "age": 36,
+        "weight": 65,
+        "isRetired": true,
+        "nationality": "Luxembourg",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Hungary",
+    "language": "Italian",
+    "platfotm": "commodo",
+    "isMCU": true,
+    "mainCharacterName": "Baxter Phillips",
+    "producer": "eu",
+    "distributor": "consectetur",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a929392203ecb81d6cd",
+    "guid": "ba50f593-ae99-46c6-ad22-66187c806378",
+    "title": "Officia est sint est laborum duis non quis pariatur eu.",
+    "actors": [
+      {
+        "idActor": "63a09a921f1c02dc04bd9a82",
+        "guidActor": "e321644b-3359-4c32-89be-fdc71055ee66",
+        "name": "Kirby Curry",
+        "age": 44,
+        "weight": 139,
+        "isRetired": true,
+        "nationality": "Poland",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a926cc4df907c861347",
+        "guidActor": "037e5c31-f880-4065-ba44-0eb2208148a2",
+        "name": "Wilder Cohen",
+        "age": 47,
+        "weight": 97,
+        "isRetired": false,
+        "nationality": "Uganda",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9299381f46adef9f1c",
+        "guidActor": "a854a0a2-e86e-4137-8586-2e90df1e5540",
+        "name": "Snow Franco",
+        "age": 44,
+        "weight": 131,
+        "isRetired": false,
+        "nationality": "Puerto Rico",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92aac6cdef84767cbb",
+        "guid": "51a28bb3-0808-4ab8-a1d3-ddad6d0fbb5e",
+        "name": "Hutchinson Pollard",
+        "age": 56,
+        "weight": 109,
+        "isRetired": true,
+        "nationality": "Iceland",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92f08f90925b0f569f",
+      "guidDirector": "321a51c3-f2fa-4aff-8044-9a10fe15b9be",
+      "name": "Ashlee Wall",
+      "age": 30,
+      "weight": 97,
+      "isRetired": false,
+      "nationality": "Croatia (Hrvatska)",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a927d5e8fda5442ce66",
+        "guidWriter": "196bdea6-bde1-4765-b816-4aeca13b549b",
+        "name": "Serena Gates",
+        "age": 46,
+        "weight": 76,
+        "isRetired": false,
+        "nationality": "Russian Federation",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a921204edb7d655fd6c",
+        "guidWriter": "8687ee41-3b7b-4a9e-9c0f-80d448435295",
+        "name": "Lea Salazar",
+        "age": 62,
+        "weight": 101,
+        "isRetired": false,
+        "nationality": "Oman",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2017,
+    "nationality": "Laos",
+    "language": "French",
+    "platfotm": "non",
+    "isMCU": true,
+    "mainCharacterName": "Christa Acevedo",
+    "producer": "exercitation",
+    "distributor": "sint",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92edde625deb13c323",
+    "guid": "c1d90cfc-3fe7-44c9-b04b-2f73c9b3226d",
+    "title": "Adipisicing deserunt commodo nulla mollit mollit ullamco do ea officia voluptate velit magna elit velit.",
+    "actors": [
+      {
+        "idActor": "63a09a9275111e489efd12e6",
+        "guidActor": "1acaba97-6867-425e-9f40-0a78c5a69353",
+        "name": "Ewing Cash",
+        "age": 66,
+        "weight": 99,
+        "isRetired": true,
+        "nationality": "Cook Islands",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9246d0877424c4653a",
+        "guidActor": "68c9f300-762d-411c-ba7b-12c4fce5c458",
+        "name": "Heidi Velazquez",
+        "age": 63,
+        "weight": 129,
+        "isRetired": true,
+        "nationality": "Macau",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92feb1c64c532a98fc",
+        "guidActor": "fb906ead-3ccf-4e02-af33-3edf882851db",
+        "name": "Chelsea Griffin",
+        "age": 35,
+        "weight": 116,
+        "isRetired": false,
+        "nationality": "Barbados",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92ff8c609d21f72892",
+        "guid": "312feb4f-3960-4eda-bc0e-8df4fa1dfad1",
+        "name": "Erin Simpson",
+        "age": 32,
+        "weight": 101,
+        "isRetired": false,
+        "nationality": "Iraq",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92cd8624c97239e172",
+      "guidDirector": "5858f0dc-ba49-4cdf-952c-a0ec3238d968",
+      "name": "Buck Simon",
+      "age": 56,
+      "weight": 71,
+      "isRetired": false,
+      "nationality": "Andorra",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a922bf39ff145ccfba6",
+        "guidWriter": "457afcc8-7b6a-4da2-8ada-19f9c95f7b4b",
+        "name": "Dunn Dunlap",
+        "age": 40,
+        "weight": 62,
+        "isRetired": true,
+        "nationality": "United Kingdom",
+        "oscarNumber": 7,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92a54f67dfafcf7528",
+        "guidWriter": "a5aeb52e-8475-44b6-8602-b27d41ac0322",
+        "name": "Juliana Sanford",
+        "age": 54,
+        "weight": 134,
+        "isRetired": false,
+        "nationality": "Northern Mariana Islands",
+        "oscarNumber": 1,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2015,
+    "nationality": "Central African Republic",
+    "language": "Spanish",
+    "platfotm": "aliqua",
+    "isMCU": false,
+    "mainCharacterName": "Dorothea Alvarez",
+    "producer": "Lorem",
+    "distributor": "id",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92ac47a92075ea5e23",
+    "guid": "5a2e84a2-b779-4040-bfe4-ce222ae94171",
+    "title": "Sit cillum in ullamco ut eiusmod do in ipsum.",
+    "actors": [
+      {
+        "idActor": "63a09a921e1f27ee7bdc45f0",
+        "guidActor": "722af5d5-8093-4c69-aab9-673713f1b8e7",
+        "name": "Carolina Price",
+        "age": 23,
+        "weight": 144,
+        "isRetired": false,
+        "nationality": "Ecuador",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9295e7d491280aeb8b",
+        "guidActor": "f48cb304-1d90-4b27-bdbb-5be7f0fa9603",
+        "name": "Tyler Mcgowan",
+        "age": 49,
+        "weight": 120,
+        "isRetired": false,
+        "nationality": "Germany",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92c8b375d1d0258661",
+        "guidActor": "75248a17-14d8-49a4-8602-3c7ef0e70664",
+        "name": "Crawford Mclean",
+        "age": 44,
+        "weight": 87,
+        "isRetired": false,
+        "nationality": "Bhutan",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a926ce9259e27466215",
+        "guid": "cf32aeb8-2524-4e5f-912b-216ccca6b8da",
+        "name": "Katina Thompson",
+        "age": 25,
+        "weight": 94,
+        "isRetired": false,
+        "nationality": "Seychelles",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9245542ad6259c29f7",
+      "guidDirector": "498af2ce-bead-4d56-a76c-d3763b83f79c",
+      "name": "Ana Little",
+      "age": 24,
+      "weight": 60,
+      "isRetired": false,
+      "nationality": "Slovenia",
+      "oscarNumber": 7,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a928e8b6ad0cdccb8e1",
+        "guidWriter": "4c3d0b00-53c4-42cf-88f8-2c6d00bb2f20",
+        "name": "Valenzuela Mcleod",
+        "age": 50,
+        "weight": 117,
+        "isRetired": true,
+        "nationality": "Hong Kong",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9297d5bea8e91aace2",
+        "guidWriter": "f477a414-cf2a-4b4e-a8cd-bb81dcecad96",
+        "name": "Brigitte Weeks",
+        "age": 64,
+        "weight": 105,
+        "isRetired": false,
+        "nationality": "Brazil",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2022,
+    "nationality": "Dominica",
+    "language": "English",
+    "platfotm": "laboris",
+    "isMCU": true,
+    "mainCharacterName": "Bertha Pickett",
+    "producer": "id",
+    "distributor": "non",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a92c1532123e01c00f1",
+    "guid": "a0f1aff3-761d-4d59-ac77-9658333fc77d",
+    "title": "Consectetur cupidatat do enim tempor sint reprehenderit.",
+    "actors": [
+      {
+        "idActor": "63a09a925b752d038afa3590",
+        "guidActor": "da93528a-e116-4361-a754-6f946159f3ef",
+        "name": "Angelica Castaneda",
+        "age": 21,
+        "weight": 123,
+        "isRetired": false,
+        "nationality": "Cyprus",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9246fc00fdfc03a7b9",
+        "guidActor": "5e83e969-7d8c-4cad-8b24-05d449645623",
+        "name": "Tabatha Koch",
+        "age": 34,
+        "weight": 134,
+        "isRetired": true,
+        "nationality": "Indonesia",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9257d887bd698a16d0",
+        "guidActor": "9e1b412e-eb3a-43ce-a82d-43163f9d924c",
+        "name": "Carver Nieves",
+        "age": 69,
+        "weight": 137,
+        "isRetired": true,
+        "nationality": "Comoros",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a928ac9b9f016541d03",
+        "guid": "e3045178-8df9-4841-9b3b-b3b5b91e3ef7",
+        "name": "Martin Lee",
+        "age": 69,
+        "weight": 68,
+        "isRetired": true,
+        "nationality": "French Southern Territories",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92113430fae46f10b4",
+      "guidDirector": "6b0bb7f0-6fdc-4c41-832d-908fc51c6adc",
+      "name": "Montgomery Rich",
+      "age": 54,
+      "weight": 124,
+      "isRetired": true,
+      "nationality": "Virgin Islands (US)",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92f9681fb1216a9e3f",
+        "guidWriter": "991d5db0-f6d3-4a58-bb24-0afde8847054",
+        "name": "Rochelle Ruiz",
+        "age": 40,
+        "weight": 73,
+        "isRetired": true,
+        "nationality": "Saint Lucia",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92b6590d71edd44af5",
+        "guidWriter": "9b43e4b9-21f4-478f-b62f-25b67ba1b2bd",
+        "name": "Merle Hutchinson",
+        "age": 32,
+        "weight": 101,
+        "isRetired": true,
+        "nationality": "Norway",
+        "oscarNumber": 3,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2021,
+    "nationality": "Senegal",
+    "language": "Italian",
+    "platfotm": "laborum",
+    "isMCU": false,
+    "mainCharacterName": "Alford Nicholson",
+    "producer": "cupidatat",
+    "distributor": "reprehenderit",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92430a48618deb166a",
+    "guid": "e47bc9fa-91d3-4f44-bd3b-9cff856e0cad",
+    "title": "Duis exercitation mollit ut nulla.",
+    "actors": [
+      {
+        "idActor": "63a09a9282e6d587c2b4a349",
+        "guidActor": "bc56edf1-fb71-4404-939b-425aded79016",
+        "name": "Alvarez Russo",
+        "age": 34,
+        "weight": 112,
+        "isRetired": true,
+        "nationality": "Mauritius",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92bc2f837f69387d70",
+        "guidActor": "54d7dc0c-0818-40d4-99b8-265263ad58a7",
+        "name": "Hull Joyner",
+        "age": 56,
+        "weight": 81,
+        "isRetired": false,
+        "nationality": "Syria",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92ab09cdc21b50b589",
+        "guidActor": "887cdc79-0379-4edd-a4bb-34d14007dbc7",
+        "name": "Espinoza Morgan",
+        "age": 35,
+        "weight": 101,
+        "isRetired": true,
+        "nationality": "Belarus",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9203bf4d35c45cb118",
+        "guid": "306a2726-4633-4830-9ae8-a1d01cdd590e",
+        "name": "Jeannette Hicks",
+        "age": 35,
+        "weight": 73,
+        "isRetired": false,
+        "nationality": "Nigeria",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92ae1939081ebd3748",
+      "guidDirector": "a5afb3ba-7157-46b5-8399-d2539290478d",
+      "name": "Virgie Rush",
+      "age": 47,
+      "weight": 77,
+      "isRetired": false,
+      "nationality": "Saint Vincent and The Grenadines",
+      "oscarNumber": 3,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92683c65266df353f2",
+        "guidWriter": "93a77a88-7dc4-4dcc-9659-7c56e252ae8b",
+        "name": "Adkins Salas",
+        "age": 46,
+        "weight": 128,
+        "isRetired": true,
+        "nationality": "Reunion",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a922b1dce2115a26179",
+        "guidWriter": "166d0f1d-e917-48e9-955c-dac314c6e361",
+        "name": "Kaitlin Higgins",
+        "age": 45,
+        "weight": 143,
+        "isRetired": true,
+        "nationality": "Vanuatu",
+        "oscarNumber": 3,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Georgia",
+    "language": "Italian",
+    "platfotm": "enim",
+    "isMCU": false,
+    "mainCharacterName": "Casey May",
+    "producer": "sit",
+    "distributor": "laborum",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92720cea62c6889bd9",
+    "guid": "a5a308da-a4d8-45c0-83a0-aa38acd93113",
+    "title": "Anim cupidatat do ullamco et reprehenderit elit eiusmod sunt ullamco amet proident.",
+    "actors": [
+      {
+        "idActor": "63a09a9240c9f4667c9a8dd5",
+        "guidActor": "f1b7ca85-5564-4a94-9ae5-694accb99203",
+        "name": "Stephanie Moon",
+        "age": 34,
+        "weight": 88,
+        "isRetired": true,
+        "nationality": "Bolivia",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a926da2a0224efd2b41",
+        "guidActor": "78f25495-1873-4ce8-9de7-78904199f1ca",
+        "name": "Hubbard Britt",
+        "age": 23,
+        "weight": 70,
+        "isRetired": false,
+        "nationality": "Macedonia",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92834a0805cd5df6a8",
+        "guidActor": "59b9f94e-7b05-4169-9a52-8bca99f9aad7",
+        "name": "Horton Blackwell",
+        "age": 36,
+        "weight": 140,
+        "isRetired": false,
+        "nationality": "Jordan",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a924def589be605796d",
+        "guid": "96caf18f-26a0-4a9d-966b-6d414ace26cc",
+        "name": "Shelly Morse",
+        "age": 64,
+        "weight": 142,
+        "isRetired": true,
+        "nationality": "Panama",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9218b9cf92ed4dadb3",
+      "guidDirector": "a3f54f1c-4ccc-4a09-b305-0fbee34a92a3",
+      "name": "Thomas Blair",
+      "age": 49,
+      "weight": 81,
+      "isRetired": true,
+      "nationality": "Wallis and Futuna Islands",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92798df62ad77aa121",
+        "guidWriter": "e37a7f0c-ce73-4fa1-a369-ed8aefeabf11",
+        "name": "Maggie Bryan",
+        "age": 60,
+        "weight": 73,
+        "isRetired": true,
+        "nationality": "Slovak Republic",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92c95be98d45e56b51",
+        "guidWriter": "6839032a-2da5-4431-adc5-91e68c7e8774",
+        "name": "Rosales Ward",
+        "age": 59,
+        "weight": 63,
+        "isRetired": false,
+        "nationality": "Svalbard and Jan Mayen Islands",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2021,
+    "nationality": "Rwanda",
+    "language": "French",
+    "platfotm": "incididunt",
+    "isMCU": false,
+    "mainCharacterName": "Weber Vance",
+    "producer": "cillum",
+    "distributor": "nisi",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a923fa14f6c0f88a206",
+    "guid": "95063f1c-ed38-4333-b6e5-25cb091e0d3a",
+    "title": "Enim commodo officia qui ea aliqua officia.",
+    "actors": [
+      {
+        "idActor": "63a09a9218ece8320989e2ee",
+        "guidActor": "e1c38594-a795-4724-b1d8-9a8ef7a3adad",
+        "name": "Frost Vaughan",
+        "age": 33,
+        "weight": 112,
+        "isRetired": false,
+        "nationality": "Costa Rica",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9251f13ddaa9b8cd07",
+        "guidActor": "74ae62d6-5cd9-4785-8e4b-96481c902e1e",
+        "name": "Jenna Munoz",
+        "age": 66,
+        "weight": 71,
+        "isRetired": false,
+        "nationality": "Madagascar",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a920b8d454abb066aee",
+        "guidActor": "77247728-5a74-4569-8e8e-03539b834b8b",
+        "name": "Briana Nixon",
+        "age": 39,
+        "weight": 143,
+        "isRetired": false,
+        "nationality": "S. Georgia and S. Sandwich Isls.",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92efd484b778143a89",
+        "guid": "4eacf22f-6b03-4a50-94e5-87be79ff8389",
+        "name": "Gladys Carrillo",
+        "age": 46,
+        "weight": 119,
+        "isRetired": true,
+        "nationality": "Vatican City State (Holy See)",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a927a2d0ee1057f2b5d",
+      "guidDirector": "3939ad2b-80ab-42a3-a4e8-748b0b2e1c4e",
+      "name": "Patty Burton",
+      "age": 47,
+      "weight": 101,
+      "isRetired": false,
+      "nationality": "US Minor Outlying Islands",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9298705b41f6d31b67",
+        "guidWriter": "83bac47b-a7b9-4569-9adf-b5825e8f27a3",
+        "name": "Jodie Figueroa",
+        "age": 36,
+        "weight": 95,
+        "isRetired": false,
+        "nationality": "Sudan",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a928eae6c40edbab0b9",
+        "guidWriter": "5403b950-ffee-4a8a-8c78-f0c5cb7ca463",
+        "name": "Hogan Steele",
+        "age": 55,
+        "weight": 108,
+        "isRetired": false,
+        "nationality": "United Arab Emirates",
+        "oscarNumber": 5,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2020,
+    "nationality": "Kiribati",
+    "language": "Spanish",
+    "platfotm": "veniam",
+    "isMCU": false,
+    "mainCharacterName": "Gilbert Avery",
+    "producer": "veniam",
+    "distributor": "ut",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92f1c641a5c9552567",
+    "guid": "2b8a23f5-1f8b-412b-b138-bc97c83c5e52",
+    "title": "Ut aute dolor ut nulla mollit aute aliquip laboris.",
+    "actors": [
+      {
+        "idActor": "63a09a92295a5aa463f078c1",
+        "guidActor": "86133e79-78e8-4b45-a2e4-411550d80b96",
+        "name": "Deena Gonzalez",
+        "age": 33,
+        "weight": 133,
+        "isRetired": true,
+        "nationality": "Gambia",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92156673c913ff1b4f",
+        "guidActor": "5b60ba1b-e663-432a-beda-d43abe0a0bbd",
+        "name": "Sharron Emerson",
+        "age": 68,
+        "weight": 99,
+        "isRetired": false,
+        "nationality": "Cocos (Keeling Islands)",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a922940ae573804ee37",
+        "guidActor": "b659c8cb-97a7-478f-8d48-cfcaaecd8b3c",
+        "name": "May Conley",
+        "age": 54,
+        "weight": 110,
+        "isRetired": false,
+        "nationality": "Tuvalu",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a926d40df559ea628eb",
+        "guid": "f674c8cd-8a7d-48d1-89cb-3f30e4f8a046",
+        "name": "Ola Lawrence",
+        "age": 35,
+        "weight": 98,
+        "isRetired": true,
+        "nationality": "Mayotte",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92edd4f2b0f823b21e",
+      "guidDirector": "9d2954f8-5304-46c0-8e35-5c42e582d057",
+      "name": "Selena Frost",
+      "age": 20,
+      "weight": 75,
+      "isRetired": false,
+      "nationality": "Antigua and Barbuda",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92ee6eb06aa4420859",
+        "guidWriter": "f2d9d313-0717-4997-b272-a32b58bea432",
+        "name": "Langley Pearson",
+        "age": 39,
+        "weight": 103,
+        "isRetired": false,
+        "nationality": "Philippines",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92b761fc7df0808e4b",
+        "guidWriter": "783b4dac-44d6-4c3a-97dc-ab8e4dcc1f89",
+        "name": "Villarreal Fowler",
+        "age": 41,
+        "weight": 142,
+        "isRetired": false,
+        "nationality": "Korea (South)",
+        "oscarNumber": 1,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2019,
+    "nationality": "Cayman Islands",
+    "language": "English",
+    "platfotm": "eiusmod",
+    "isMCU": true,
+    "mainCharacterName": "Shirley Griffith",
+    "producer": "ex",
+    "distributor": "elit",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a9276e78e03143afa52",
+    "guid": "0798ff01-66d9-4293-b69c-e31ceba478b4",
+    "title": "Qui nulla incididunt duis mollit velit fugiat dolor Lorem.",
+    "actors": [
+      {
+        "idActor": "63a09a92ee5a162d393bf339",
+        "guidActor": "833d656d-118e-4919-b4a7-b911419d4b28",
+        "name": "Holder Moss",
+        "age": 60,
+        "weight": 147,
+        "isRetired": false,
+        "nationality": "Greenland",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9238833b16482a19b3",
+        "guidActor": "6cffe05c-fb65-449e-b720-8ea76f72dbf3",
+        "name": "Dennis Shaw",
+        "age": 69,
+        "weight": 96,
+        "isRetired": false,
+        "nationality": "Equatorial Guinea",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92c74f30374388c164",
+        "guidActor": "cc913362-fcbe-4a88-840e-8ed5a9519fa0",
+        "name": "Cain Sawyer",
+        "age": 42,
+        "weight": 97,
+        "isRetired": true,
+        "nationality": "Benin",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92734bdb2b12c667b6",
+        "guid": "aea5b67f-506b-4713-929a-dc0c79823454",
+        "name": "Alice Russell",
+        "age": 28,
+        "weight": 124,
+        "isRetired": false,
+        "nationality": "Mongolia",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9231b07e8cf89d2737",
+      "guidDirector": "be88a644-a976-4e34-aaa4-41d52034d3e1",
+      "name": "Nora Hendricks",
+      "age": 52,
+      "weight": 113,
+      "isRetired": false,
+      "nationality": "Norfolk Island",
+      "oscarNumber": 7,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92fc26447839c71f76",
+        "guidWriter": "c05f9493-21a3-4aff-a376-ee8fe33bfc4d",
+        "name": "Anthony Pacheco",
+        "age": 61,
+        "weight": 94,
+        "isRetired": true,
+        "nationality": "Italy",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92b2e7da741077864e",
+        "guidWriter": "ce4b7bbd-afc2-4e6e-8ad4-4326c9561d2c",
+        "name": "Ashley West",
+        "age": 43,
+        "weight": 64,
+        "isRetired": false,
+        "nationality": "Kenya",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2017,
+    "nationality": "Ireland",
+    "language": "Italian",
+    "platfotm": "sit",
+    "isMCU": false,
+    "mainCharacterName": "Cleo Lloyd",
+    "producer": "fugiat",
+    "distributor": "nisi",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a9235281120fb7bc414",
+    "guid": "0e40824d-9e1d-4e7d-997d-2d758d47f8ac",
+    "title": "Ullamco Lorem cupidatat anim velit magna officia anim sit nulla eu.",
+    "actors": [
+      {
+        "idActor": "63a09a92315be92e66651cb1",
+        "guidActor": "161805a6-983b-4f53-aded-c8893f2091ac",
+        "name": "Kristy Lott",
+        "age": 44,
+        "weight": 62,
+        "isRetired": false,
+        "nationality": "New Zealand",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921bd1845122549fa2",
+        "guidActor": "164604e9-2de3-4fb8-97d2-4afdf4676428",
+        "name": "Rhea Diaz",
+        "age": 54,
+        "weight": 125,
+        "isRetired": false,
+        "nationality": "Cambodia",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92593538bff01a85a2",
+        "guidActor": "bda82f98-2678-4c78-b8d6-afc2cbd5127c",
+        "name": "Crosby Moreno",
+        "age": 35,
+        "weight": 108,
+        "isRetired": false,
+        "nationality": "Malta",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a927cb1f1c682c5e1b6",
+        "guid": "97c8e303-8722-4673-9817-a19c278f3174",
+        "name": "Klein Rhodes",
+        "age": 47,
+        "weight": 91,
+        "isRetired": true,
+        "nationality": "Yemen",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a923aca043a489705ff",
+      "guidDirector": "36a45f4f-9ce6-470b-b6db-f27c4437aad8",
+      "name": "Hendricks Livingston",
+      "age": 53,
+      "weight": 68,
+      "isRetired": false,
+      "nationality": "Nicaragua",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a923d3bb249f4933040",
+        "guidWriter": "9638cb4a-d0e2-4e3d-b11d-fb4457c56da2",
+        "name": "Mabel Roberts",
+        "age": 57,
+        "weight": 96,
+        "isRetired": true,
+        "nationality": "Mozambique",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a920ef71a13f51a09cd",
+        "guidWriter": "826b0176-f154-4045-a49f-ed862d111d83",
+        "name": "Chandra Bartlett",
+        "age": 67,
+        "weight": 113,
+        "isRetired": true,
+        "nationality": "Eritrea",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Chile",
+    "language": "English",
+    "platfotm": "incididunt",
+    "isMCU": true,
+    "mainCharacterName": "Vega Austin",
+    "producer": "aute",
+    "distributor": "irure",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a9212f9b37c10d82b2f",
+    "guid": "d105b849-6a0a-4dbc-bed5-96949ed3340d",
+    "title": "Esse fugiat cillum labore incididunt reprehenderit dolor adipisicing velit quis velit ullamco tempor commodo adipisicing.",
+    "actors": [
+      {
+        "idActor": "63a09a92cb10558d3f2c912a",
+        "guidActor": "5636125b-90b7-497c-b1b4-94955e327ee8",
+        "name": "Merrill Chen",
+        "age": 60,
+        "weight": 115,
+        "isRetired": false,
+        "nationality": "Lebanon",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f490ac9fb205d2db",
+        "guidActor": "acaad933-ae28-4ed5-8a57-6a2b0c9380f6",
+        "name": "Lina Watson",
+        "age": 40,
+        "weight": 150,
+        "isRetired": true,
+        "nationality": "Turkey",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92650628a9a833f57b",
+        "guidActor": "278659e8-1dd5-43cd-97f6-da11b63f323c",
+        "name": "Macias Solomon",
+        "age": 54,
+        "weight": 76,
+        "isRetired": false,
+        "nationality": "Yugoslavia",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92dec84f45379b066d",
+        "guid": "7f8e9f00-6103-4e73-901f-51537187e14c",
+        "name": "Edwards Shepherd",
+        "age": 50,
+        "weight": 101,
+        "isRetired": false,
+        "nationality": "Tunisia",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9262c5eee3e8299009",
+      "guidDirector": "8205fdaf-514d-4879-a49d-5f4cadea3ca2",
+      "name": "Mclaughlin Turner",
+      "age": 49,
+      "weight": 150,
+      "isRetired": true,
+      "nationality": "Togo",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a926b8c5cebc0161bec",
+        "guidWriter": "42a2e203-86ad-4235-ae85-d328beca676f",
+        "name": "Melanie Shannon",
+        "age": 39,
+        "weight": 110,
+        "isRetired": false,
+        "nationality": "Gabon",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a922dd28a33db24e6c0",
+        "guidWriter": "a550d9e5-9771-44dd-a7d8-e3823c1cbcd0",
+        "name": "Workman Anthony",
+        "age": 50,
+        "weight": 103,
+        "isRetired": true,
+        "nationality": "Guyana",
+        "oscarNumber": 5,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Jamaica",
+    "language": "English",
+    "platfotm": "eiusmod",
+    "isMCU": true,
+    "mainCharacterName": "Candice Gallagher",
+    "producer": "voluptate",
+    "distributor": "incididunt",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a923f2169e1d9f3c760",
+    "guid": "9a8f6f3f-1d52-45a4-b7aa-677e8ef7889c",
+    "title": "Do veniam officia qui ullamco cillum id commodo.",
+    "actors": [
+      {
+        "idActor": "63a09a925255e8ae6d23dee7",
+        "guidActor": "ae0f69be-0e68-4457-8fd1-3f13d38ec762",
+        "name": "Jodi Sanchez",
+        "age": 49,
+        "weight": 72,
+        "isRetired": true,
+        "nationality": "Algeria",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92732714bc6b19973b",
+        "guidActor": "a956e1de-51b2-49f0-804e-eb8a6d54e546",
+        "name": "Bass Hancock",
+        "age": 69,
+        "weight": 92,
+        "isRetired": true,
+        "nationality": "Albania",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e968c2f75150d22f",
+        "guidActor": "0ab3715f-0f00-4265-a06e-6946e186c8bf",
+        "name": "Moreno Mueller",
+        "age": 68,
+        "weight": 95,
+        "isRetired": true,
+        "nationality": "Romania",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a927021124376b8b544",
+        "guid": "27924bf4-b423-4ec6-af4c-cc0e6c328a85",
+        "name": "Susie Cooper",
+        "age": 43,
+        "weight": 65,
+        "isRetired": false,
+        "nationality": "Finland",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92dbe413db9c8e0218",
+      "guidDirector": "67d97781-2df7-4350-944b-2996384f7149",
+      "name": "Ofelia Sanders",
+      "age": 31,
+      "weight": 105,
+      "isRetired": false,
+      "nationality": "Malawi",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a924aa15b6a6d58c2a1",
+        "guidWriter": "e19deabf-66af-4ae6-a5bb-328ea23150d9",
+        "name": "Kate Lambert",
+        "age": 49,
+        "weight": 146,
+        "isRetired": true,
+        "nationality": "Azerbaijan",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a923976f03d862714d3",
+        "guidWriter": "641c3113-ce96-4f20-aa11-d82186011e1b",
+        "name": "Cunningham Good",
+        "age": 65,
+        "weight": 66,
+        "isRetired": true,
+        "nationality": "Papua New Guinea",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2017,
+    "nationality": "Bosnia and Herzegovina",
+    "language": "French",
+    "platfotm": "ipsum",
+    "isMCU": false,
+    "mainCharacterName": "Berry Pruitt",
+    "producer": "ullamco",
+    "distributor": "duis",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a923b12cf829543407e",
+    "guid": "ae23deda-c05e-4821-afa2-7dedc3b39abe",
+    "title": "Reprehenderit aute anim incididunt culpa aliquip consectetur ut occaecat consequat non voluptate culpa enim cupidatat.",
+    "actors": [
+      {
+        "idActor": "63a09a92c5ac2e322ead3c60",
+        "guidActor": "623a4862-5c7e-45bc-8a85-b4534b15d3dd",
+        "name": "Jordan Buckley",
+        "age": 53,
+        "weight": 82,
+        "isRetired": true,
+        "nationality": "Moldova",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921213e5956b5fe5a0",
+        "guidActor": "38600439-714c-4be3-bd8a-3536eaac6c32",
+        "name": "Moses Hill",
+        "age": 46,
+        "weight": 70,
+        "isRetired": true,
+        "nationality": "Lesotho",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9240e0c2bb9a21bdca",
+        "guidActor": "3091110c-7f74-4fa7-aca7-8ff266775170",
+        "name": "Guzman Mercer",
+        "age": 48,
+        "weight": 102,
+        "isRetired": true,
+        "nationality": "Mali",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92a4598a7b5e1217d8",
+        "guid": "23936a81-dec0-4d99-8fe6-238f7403b430",
+        "name": "Ramos Odonnell",
+        "age": 39,
+        "weight": 138,
+        "isRetired": false,
+        "nationality": "Czech Republic",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92ff5a7daf4195f8e2",
+      "guidDirector": "1f88aa3a-2c40-4c30-93df-7cbf5916b354",
+      "name": "Fay Ochoa",
+      "age": 49,
+      "weight": 108,
+      "isRetired": true,
+      "nationality": "Bulgaria",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92fd0164f71f60316f",
+        "guidWriter": "b31ba6eb-c55c-4445-8f0e-e32e86a8abce",
+        "name": "Yates Pratt",
+        "age": 50,
+        "weight": 91,
+        "isRetired": true,
+        "nationality": "Paraguay",
+        "oscarNumber": 7,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92591ebf6e0ef98b95",
+        "guidWriter": "ea486f2d-615f-4384-b8a0-0718efa779cd",
+        "name": "Talley Taylor",
+        "age": 70,
+        "weight": 150,
+        "isRetired": false,
+        "nationality": "Micronesia",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2014,
+    "nationality": "Argentina",
+    "language": "English",
+    "platfotm": "nulla",
+    "isMCU": false,
+    "mainCharacterName": "Jannie Maxwell",
+    "producer": "amet",
+    "distributor": "non",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92db87451545e11407",
+    "guid": "f8d23817-f207-4995-b71f-b74c027dfb57",
+    "title": "Eiusmod do magna quis ad sint ex et ex ipsum officia.",
+    "actors": [
+      {
+        "idActor": "63a09a92ddb3373308071575",
+        "guidActor": "29175df4-0491-4fd8-85c3-1c392c76896d",
+        "name": "Trisha Lowe",
+        "age": 46,
+        "weight": 134,
+        "isRetired": false,
+        "nationality": "Netherlands",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92dcdc138359d25ffe",
+        "guidActor": "12be1390-f2f5-4309-ae0f-8705add9a42f",
+        "name": "Rena Johnson",
+        "age": 70,
+        "weight": 132,
+        "isRetired": false,
+        "nationality": "French Guiana",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a925bb9bf1ebfb0ca7c",
+        "guidActor": "6cfcee7a-3c85-4256-98bd-eadbbb13776a",
+        "name": "Hilary Baker",
+        "age": 38,
+        "weight": 133,
+        "isRetired": true,
+        "nationality": "Libya",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9257a0efb12aba39a1",
+        "guid": "1be338da-4b5c-4d77-bc3a-e4221edf5350",
+        "name": "Spears Cleveland",
+        "age": 38,
+        "weight": 119,
+        "isRetired": false,
+        "nationality": "Bangladesh",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92dca762715d61cf57",
+      "guidDirector": "d8de1aee-3112-4aff-ab74-a175b2a77c49",
+      "name": "Delia Moody",
+      "age": 44,
+      "weight": 97,
+      "isRetired": true,
+      "nationality": "East Timor",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92ce172d85569e7703",
+        "guidWriter": "3ee33113-8779-4055-8cd3-2046ad1765f9",
+        "name": "Mccullough Jensen",
+        "age": 26,
+        "weight": 120,
+        "isRetired": false,
+        "nationality": "France",
+        "oscarNumber": 7,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92767fc630a7fb4f49",
+        "guidWriter": "defe8100-3b8e-47b2-8e4c-0a8c379e3344",
+        "name": "Mari Ferrell",
+        "age": 47,
+        "weight": 76,
+        "isRetired": false,
+        "nationality": "Portugal",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2015,
+    "nationality": "Malaysia",
+    "language": "Italian",
+    "platfotm": "aliquip",
+    "isMCU": false,
+    "mainCharacterName": "Irwin Maldonado",
+    "producer": "velit",
+    "distributor": "deserunt",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a924674235105ff79f1",
+    "guid": "726f71a7-354a-401d-894e-84ef5782200d",
+    "title": "Reprehenderit quis sunt laborum in pariatur aliquip exercitation in cillum.",
+    "actors": [
+      {
+        "idActor": "63a09a9222713b3f06f76f5f",
+        "guidActor": "71e7c89a-0d47-4f95-a5ae-f63aef818300",
+        "name": "Reyes Newman",
+        "age": 27,
+        "weight": 74,
+        "isRetired": false,
+        "nationality": "San Marino",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9232c48580cbe40cdb",
+        "guidActor": "aa4bd599-d6c8-4c39-abd7-ab083ceb9dcc",
+        "name": "Bridget Rasmussen",
+        "age": 51,
+        "weight": 128,
+        "isRetired": true,
+        "nationality": "Taiwan",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92eb92b808a04f6a33",
+        "guidActor": "61d15852-578d-4978-b125-08f041fcd650",
+        "name": "Camacho Brown",
+        "age": 31,
+        "weight": 67,
+        "isRetired": true,
+        "nationality": "Belize",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a928897d606a2f22115",
+        "guid": "3a84f7e5-5cc7-4d88-9cee-ed3426493c20",
+        "name": "Ashley Madden",
+        "age": 32,
+        "weight": 92,
+        "isRetired": true,
+        "nationality": "Zambia",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92ffc847147af97936",
+      "guidDirector": "c01507b9-c906-4320-a245-c2083e927bb6",
+      "name": "Deann Barrera",
+      "age": 62,
+      "weight": 83,
+      "isRetired": true,
+      "nationality": "Afghanistan",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9239e13b6afbdfa929",
+        "guidWriter": "b22532dc-8657-441c-8830-eb565d097b99",
+        "name": "Bennett Elliott",
+        "age": 57,
+        "weight": 72,
+        "isRetired": false,
+        "nationality": "Peru",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9267f332022e9c99c7",
+        "guidWriter": "ec650443-0aa1-42c0-b22e-44e7c7b4733a",
+        "name": "Helga Brooks",
+        "age": 46,
+        "weight": 95,
+        "isRetired": true,
+        "nationality": "Ghana",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2022,
+    "nationality": "Solomon Islands",
+    "language": "Spanish",
+    "platfotm": "aliquip",
+    "isMCU": false,
+    "mainCharacterName": "Pollard Mullen",
+    "producer": "ex",
+    "distributor": "in",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a928c95789f648a861a",
+    "guid": "257cfef0-0c6d-4a34-bab7-1a37094739ae",
+    "title": "Consectetur sint commodo consectetur excepteur.",
+    "actors": [
+      {
+        "idActor": "63a09a92d7d130af2efd7a87",
+        "guidActor": "eb8ce5c3-6cb9-41ce-90d5-5c36dc51c4d4",
+        "name": "Lacy Hewitt",
+        "age": 67,
+        "weight": 101,
+        "isRetired": true,
+        "nationality": "Armenia",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92556f1be8bd2e84fc",
+        "guidActor": "58d648c8-4128-437f-81a6-06fe86e5eb0f",
+        "name": "Eaton Oneal",
+        "age": 34,
+        "weight": 60,
+        "isRetired": false,
+        "nationality": "Namibia",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a924c588b01a60372fa",
+        "guidActor": "758d7faa-92c8-4c99-9bab-00b687e238fe",
+        "name": "Williamson Rivas",
+        "age": 26,
+        "weight": 66,
+        "isRetired": true,
+        "nationality": "Zimbabwe",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e76f121ec52cd749",
+        "guid": "ca9b4c2e-eca9-4c7b-80e4-905eb1094888",
+        "name": "Gibson Harris",
+        "age": 68,
+        "weight": 96,
+        "isRetired": false,
+        "nationality": "Guinea",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9287b577005dd03430",
+      "guidDirector": "e9d851be-caad-4de7-8142-c0bc4158ff06",
+      "name": "Wells Mcintyre",
+      "age": 36,
+      "weight": 133,
+      "isRetired": true,
+      "nationality": "Fiji",
+      "oscarNumber": 3,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a926f7550368dad52b4",
+        "guidWriter": "252b0747-cf8c-4b8e-a133-4aa9b2d9073a",
+        "name": "Mercer Hopper",
+        "age": 56,
+        "weight": 77,
+        "isRetired": false,
+        "nationality": "Somalia",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92e5e19645a5508057",
+        "guidWriter": "c353ec57-90c2-47db-ac68-562f50144eb5",
+        "name": "Cantrell Lewis",
+        "age": 68,
+        "weight": 83,
+        "isRetired": true,
+        "nationality": "Chad",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Israel",
+    "language": "Italian",
+    "platfotm": "ut",
+    "isMCU": false,
+    "mainCharacterName": "Baker Cardenas",
+    "producer": "amet",
+    "distributor": "ullamco",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a927cd17d87a9ba4c21",
+    "guid": "6b25cea8-3ef7-446d-821e-772cf50312b5",
+    "title": "Commodo magna voluptate dolore anim dolor adipisicing ut fugiat consectetur esse do reprehenderit sunt.",
+    "actors": [
+      {
+        "idActor": "63a09a925e3e9ab41bd724f5",
+        "guidActor": "03872fc0-2a48-434f-bb6b-e901393363ef",
+        "name": "Curtis Holcomb",
+        "age": 26,
+        "weight": 128,
+        "isRetired": true,
+        "nationality": "Monaco",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92fe96a9cf61276427",
+        "guidActor": "1ccf735a-9d6e-4ac7-a02c-fbb1947afe09",
+        "name": "Rosemarie Harvey",
+        "age": 57,
+        "weight": 119,
+        "isRetired": true,
+        "nationality": "Venezuela",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92fbeab7d257b067b7",
+        "guidActor": "641f976d-49ed-4693-8ac7-ececa6d0f859",
+        "name": "Christensen Foley",
+        "age": 26,
+        "weight": 77,
+        "isRetired": false,
+        "nationality": "Iran",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92daafda2484984acf",
+        "guid": "8976d168-7839-4c37-976d-710a77a7fa88",
+        "name": "Paula Atkinson",
+        "age": 28,
+        "weight": 133,
+        "isRetired": true,
+        "nationality": "Mauritania",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9235b123f098ed779d",
+      "guidDirector": "e61f52a6-15bf-4647-8a35-c1cbc4c0784a",
+      "name": "Dyer Murray",
+      "age": 37,
+      "weight": 118,
+      "isRetired": false,
+      "nationality": "Cameroon",
+      "oscarNumber": 7,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9250454950d1a65c51",
+        "guidWriter": "2fafafd5-050c-4652-bd9a-499d00cca839",
+        "name": "Violet Vargas",
+        "age": 27,
+        "weight": 106,
+        "isRetired": true,
+        "nationality": "St. Pierre and Miquelon",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9228521af1fb3a675d",
+        "guidWriter": "8d6d7820-7c69-4963-8834-12ada55c341f",
+        "name": "Gordon Valencia",
+        "age": 24,
+        "weight": 141,
+        "isRetired": true,
+        "nationality": "Uruguay",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Guadeloupe",
+    "language": "Italian",
+    "platfotm": "tempor",
+    "isMCU": false,
+    "mainCharacterName": "Leann Jimenez",
+    "producer": "quis",
+    "distributor": "laboris",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92c8650df978533a1b",
+    "guid": "09da1b76-76ab-4d0a-a5ee-ef9d914277e8",
+    "title": "Adipisicing laborum sit qui exercitation occaecat do tempor aute pariatur.",
+    "actors": [
+      {
+        "idActor": "63a09a92ae94eb608136e374",
+        "guidActor": "64ae23f7-5804-4857-bc8d-763899fa981d",
+        "name": "Patrica Key",
+        "age": 37,
+        "weight": 73,
+        "isRetired": true,
+        "nationality": "France, Metropolitan",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92b2be4ee301228d5a",
+        "guidActor": "0cfc7d48-9baa-4214-94ac-fb085a90cdc1",
+        "name": "Branch Bailey",
+        "age": 61,
+        "weight": 78,
+        "isRetired": true,
+        "nationality": "Burundi",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92dd2bfa1d5cea2311",
+        "guidActor": "0491ee8a-f452-4b73-822d-c8aec80395b2",
+        "name": "Burton Schroeder",
+        "age": 61,
+        "weight": 78,
+        "isRetired": true,
+        "nationality": "Switzerland",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92223fe4542f2bf8a7",
+        "guid": "e8967ffa-3db2-4ca3-90f5-b26c6135a1a1",
+        "name": "Lara Deleon",
+        "age": 45,
+        "weight": 140,
+        "isRetired": true,
+        "nationality": "Western Sahara",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92f04e61dfe37bd45b",
+      "guidDirector": "4d7eaaa4-ffa8-41b5-8e36-faa35501cb48",
+      "name": "Elma Herring",
+      "age": 44,
+      "weight": 61,
+      "isRetired": false,
+      "nationality": "Faroe Islands",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92b64352a5af0d5d24",
+        "guidWriter": "2f2496da-6ea7-48db-95e7-6b283bb5cc93",
+        "name": "Ginger Morrow",
+        "age": 35,
+        "weight": 105,
+        "isRetired": true,
+        "nationality": "Kazakhstan",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92e208a67b558401ec",
+        "guidWriter": "56a9a923-cf39-431d-9cf2-20a1d3231dfe",
+        "name": "Lee Nguyen",
+        "age": 62,
+        "weight": 86,
+        "isRetired": true,
+        "nationality": "Zaire",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2014,
+    "nationality": "Kuwait",
+    "language": "English",
+    "platfotm": "incididunt",
+    "isMCU": true,
+    "mainCharacterName": "Maxine Garza",
+    "producer": "et",
+    "distributor": "aliquip",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92067b095a8d0296af",
+    "guid": "4f7985cf-928f-4a95-975e-eada2a294a27",
+    "title": "Deserunt eiusmod anim ipsum nisi.",
+    "actors": [
+      {
+        "idActor": "63a09a92e7a280fdfc8c541e",
+        "guidActor": "a3889d18-c523-4be0-8204-1cf2aa7fa087",
+        "name": "Craig Calderon",
+        "age": 20,
+        "weight": 106,
+        "isRetired": false,
+        "nationality": "Lithuania",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92a9da72ba83391aa6",
+        "guidActor": "457199fe-0dfc-4cf1-bb83-367e1e90f703",
+        "name": "Stein Sutton",
+        "age": 29,
+        "weight": 90,
+        "isRetired": false,
+        "nationality": "Niue",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92a8dbcef42a59cf3b",
+        "guidActor": "238b2b00-ffb5-40b4-9a46-029309a33e02",
+        "name": "Petersen Stone",
+        "age": 37,
+        "weight": 121,
+        "isRetired": false,
+        "nationality": "Nepal",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92c5a5f7e0c551ac33",
+        "guid": "cb7384e4-e724-4c33-96fe-f664e6938122",
+        "name": "Meagan Stein",
+        "age": 47,
+        "weight": 78,
+        "isRetired": true,
+        "nationality": "Swaziland",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9230c3a3e54b46c972",
+      "guidDirector": "0cc3e5c8-9bb4-4f00-85ca-8c56e021d472",
+      "name": "Whitfield Giles",
+      "age": 37,
+      "weight": 106,
+      "isRetired": false,
+      "nationality": "Austria",
+      "oscarNumber": 5,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92c908ef438ef2645c",
+        "guidWriter": "8fd49ffc-2fc8-4c88-ac81-5c3518ffb588",
+        "name": "Mack Henry",
+        "age": 58,
+        "weight": 98,
+        "isRetired": false,
+        "nationality": "British Indian Ocean Territory",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92ba8305bacdae80df",
+        "guidWriter": "404dfc4a-f0f6-44b7-a0e2-e5e53b36d017",
+        "name": "Sellers Bond",
+        "age": 49,
+        "weight": 116,
+        "isRetired": true,
+        "nationality": "Bermuda",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Martinique",
+    "language": "French",
+    "platfotm": "nisi",
+    "isMCU": true,
+    "mainCharacterName": "Stuart Bell",
+    "producer": "mollit",
+    "distributor": "fugiat",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92f6435c5e487d462f",
+    "guid": "b5966521-fd07-4ee8-8024-910ad51724d1",
+    "title": "Ex dolor eu esse minim est esse incididunt amet et.",
+    "actors": [
+      {
+        "idActor": "63a09a922725d529c7ddf0f0",
+        "guidActor": "c44d1bb7-abfd-479b-bd32-1ce92640fd32",
+        "name": "Evans Cervantes",
+        "age": 51,
+        "weight": 80,
+        "isRetired": false,
+        "nationality": "Thailand",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92fe6deab74067eaca",
+        "guidActor": "98017436-9e52-42c4-902a-62288e754d78",
+        "name": "Duncan Marshall",
+        "age": 43,
+        "weight": 95,
+        "isRetired": false,
+        "nationality": "Christmas Island",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9249bbc18928b8c2c8",
+        "guidActor": "5b4086c4-bbcc-4ede-b72d-ac38ba860ea9",
+        "name": "Barbara Baxter",
+        "age": 30,
+        "weight": 73,
+        "isRetired": false,
+        "nationality": "Virgin Islands (British)",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92142d883f1b4db379",
+        "guid": "e0af61fa-f219-45da-b0de-2e5e1e9c5d92",
+        "name": "Waller Becker",
+        "age": 53,
+        "weight": 119,
+        "isRetired": false,
+        "nationality": "Egypt",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92c9c089e0fbe08210",
+      "guidDirector": "f14aee05-abbd-4c55-be90-53eba1eb1421",
+      "name": "Price Daniel",
+      "age": 39,
+      "weight": 93,
+      "isRetired": false,
+      "nationality": "Bahamas",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a926f5a9b5bb6d2ddf8",
+        "guidWriter": "39f3c261-8b1f-46af-9b5e-44dce9f2d31d",
+        "name": "Wagner Collins",
+        "age": 58,
+        "weight": 69,
+        "isRetired": false,
+        "nationality": "Gibraltar",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a921ff21c0e478bb8be",
+        "guidWriter": "29ea8781-860e-440f-b638-58f8b6361ec1",
+        "name": "Becky Noble",
+        "age": 69,
+        "weight": 121,
+        "isRetired": false,
+        "nationality": "India",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2014,
+    "nationality": "Burkina Faso",
+    "language": "Spanish",
+    "platfotm": "ex",
+    "isMCU": true,
+    "mainCharacterName": "Corinne Larsen",
+    "producer": "ad",
+    "distributor": "qui",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92c30f06f9788d671e",
+    "guid": "5f70772c-c5d2-4fb3-bf99-54c4720805bf",
+    "title": "Sint quis ad eiusmod reprehenderit velit officia in sunt eiusmod amet.",
+    "actors": [
+      {
+        "idActor": "63a09a92bd724429d2780054",
+        "guidActor": "be1962d0-448d-4ab4-bd01-ec2ad69cbebd",
+        "name": "Mayra Hickman",
+        "age": 21,
+        "weight": 65,
+        "isRetired": false,
+        "nationality": "Ukraine",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a920e2ed7e5f0393be8",
+        "guidActor": "4b356cf1-4451-4a20-b4c8-256d22b4c852",
+        "name": "Natasha Burks",
+        "age": 23,
+        "weight": 124,
+        "isRetired": false,
+        "nationality": "Morocco",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e17ec54d3b3acb97",
+        "guidActor": "2d448c9a-44ef-4501-b7ba-46940f5e3b3d",
+        "name": "Simon Bean",
+        "age": 68,
+        "weight": 146,
+        "isRetired": false,
+        "nationality": "Sao Tome and Principe",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92841c0045cf87b44b",
+        "guid": "5e1b881f-66ef-45dd-a507-b330258e41f0",
+        "name": "Galloway Barron",
+        "age": 26,
+        "weight": 95,
+        "isRetired": false,
+        "nationality": "Japan",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92068729a17d90aba1",
+      "guidDirector": "a3aafb0b-2732-42b5-8d84-8dae13417669",
+      "name": "Walters Yang",
+      "age": 61,
+      "weight": 142,
+      "isRetired": true,
+      "nationality": "Tonga",
+      "oscarNumber": 5,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92fccc781293a79192",
+        "guidWriter": "3ff7221f-73cd-4859-a614-525df6a53861",
+        "name": "Ferrell Coffey",
+        "age": 57,
+        "weight": 146,
+        "isRetired": false,
+        "nationality": "American Samoa",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92d5260e25018a8a7f",
+        "guidWriter": "86042a81-b420-47b4-a6d4-b7bfb7f7d6cc",
+        "name": "Rosanne Campbell",
+        "age": 46,
+        "weight": 67,
+        "isRetired": false,
+        "nationality": "Sierra Leone",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2021,
+    "nationality": "Congo",
+    "language": "French",
+    "platfotm": "aliqua",
+    "isMCU": true,
+    "mainCharacterName": "Singleton Hobbs",
+    "producer": "commodo",
+    "distributor": "deserunt",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a9283f2cb7bb78c9983",
+    "guid": "810b78d9-62e3-4434-a94b-e2505df29932",
+    "title": "Consequat enim dolore consequat Lorem sit dolore minim dolore.",
+    "actors": [
+      {
+        "idActor": "63a09a925b3b6631af7eb515",
+        "guidActor": "040a3f8c-3cb9-491c-8827-0ffd86061b1b",
+        "name": "Noemi Santos",
+        "age": 30,
+        "weight": 143,
+        "isRetired": false,
+        "nationality": "Saint Kitts and Nevis",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92a42a5f50da1eacb6",
+        "guidActor": "ec7d1166-3483-4273-a1f1-d99057f69a65",
+        "name": "Carey Hart",
+        "age": 35,
+        "weight": 66,
+        "isRetired": true,
+        "nationality": "Marshall Islands",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a927672461a640f09d4",
+        "guidActor": "8bcab8f2-3219-426c-937c-5ce5c7453248",
+        "name": "Dillon Phelps",
+        "age": 27,
+        "weight": 143,
+        "isRetired": true,
+        "nationality": "Spain",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9217958c17188e4fd2",
+        "guid": "c6c621c1-ec7c-42d7-9efa-2cb6b2d6b5d9",
+        "name": "Staci Jefferson",
+        "age": 21,
+        "weight": 115,
+        "isRetired": false,
+        "nationality": "Ethiopia",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a927e0560995abb0955",
+      "guidDirector": "bff1aad0-023c-4194-aa36-bdd20c4ff954",
+      "name": "Kline Hahn",
+      "age": 26,
+      "weight": 116,
+      "isRetired": false,
+      "nationality": "Bahrain",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92422d7840c0d774ce",
+        "guidWriter": "82a52f44-ee15-4240-bdd0-5651a42c067c",
+        "name": "Michael Gomez",
+        "age": 57,
+        "weight": 86,
+        "isRetired": true,
+        "nationality": "Brunei Darussalam",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a925c112ddf804a9b60",
+        "guidWriter": "5600308f-2948-461b-bb07-24e32e380b90",
+        "name": "Bernice Carter",
+        "age": 66,
+        "weight": 139,
+        "isRetired": true,
+        "nationality": "Angola",
+        "oscarNumber": 5,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2022,
+    "nationality": "Maldives",
+    "language": "English",
+    "platfotm": "reprehenderit",
+    "isMCU": false,
+    "mainCharacterName": "Britt Doyle",
+    "producer": "commodo",
+    "distributor": "cupidatat",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a920352296a5db9a064",
+    "guid": "aa1fba2c-0cc1-4b2c-a724-16ec1d9ddc9c",
+    "title": "Dolore quis ea anim eiusmod.",
+    "actors": [
+      {
+        "idActor": "63a09a925c53d58bb77e70d7",
+        "guidActor": "ca190ad4-99d3-4f3a-a5f5-22c69db643d8",
+        "name": "Steele Hansen",
+        "age": 33,
+        "weight": 106,
+        "isRetired": true,
+        "nationality": "Heard and McDonald Islands",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9227e63a79214fcae9",
+        "guidActor": "d246da8c-ef09-41c9-ba6e-c706bbf04a80",
+        "name": "Liliana Butler",
+        "age": 45,
+        "weight": 81,
+        "isRetired": false,
+        "nationality": "Cote D'Ivoire (Ivory Coast)",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9286dcfc925f41fb9a",
+        "guidActor": "521eb023-15bb-41ce-9698-7b8ac882ed9a",
+        "name": "Johanna Blake",
+        "age": 49,
+        "weight": 141,
+        "isRetired": false,
+        "nationality": "New Caledonia",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a927a853b5efaeeb193",
+        "guid": "8fc6d940-6084-413f-a07e-7a537c43b726",
+        "name": "Alston Talley",
+        "age": 22,
+        "weight": 124,
+        "isRetired": false,
+        "nationality": "Korea (North)",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a928a61c34d32a5b4c8",
+      "guidDirector": "4a24ab14-5fa1-474f-a7e6-2dcee974aec4",
+      "name": "Doris Hoover",
+      "age": 58,
+      "weight": 68,
+      "isRetired": true,
+      "nationality": "Guinea-Bissau",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92d5f382f0334eaebb",
+        "guidWriter": "60579050-5535-4a66-a63f-f7c57e84e022",
+        "name": "Forbes Gross",
+        "age": 47,
+        "weight": 83,
+        "isRetired": false,
+        "nationality": "Montserrat",
+        "oscarNumber": 5,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a926edbc0323769d095",
+        "guidWriter": "96e8b5b0-3d0b-4af3-8bbd-e601d674b310",
+        "name": "Snider Bright",
+        "age": 32,
+        "weight": 96,
+        "isRetired": false,
+        "nationality": "Mexico",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Singapore",
+    "language": "French",
+    "platfotm": "mollit",
+    "isMCU": false,
+    "mainCharacterName": "Dora Petty",
+    "producer": "nostrud",
+    "distributor": "do",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92d13b4fe2865fcf22",
+    "guid": "01d346f2-5fd7-4ece-8fbc-403d280e3a0e",
+    "title": "Laboris in nisi minim nisi labore ullamco officia duis nulla dolore sit labore ea.",
+    "actors": [
+      {
+        "idActor": "63a09a92afa7d1884a869df7",
+        "guidActor": "f74237fb-4587-4052-8f6e-31c6700c69d1",
+        "name": "Shanna Whitley",
+        "age": 33,
+        "weight": 85,
+        "isRetired": true,
+        "nationality": "Dominican Republic",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92d1c041319b8ade41",
+        "guidActor": "2023a6d4-ad77-4a29-8016-a61090333953",
+        "name": "Sofia Mathews",
+        "age": 60,
+        "weight": 60,
+        "isRetired": true,
+        "nationality": "Tajikistan",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a923419ed187c61cc14",
+        "guidActor": "719350e8-86be-422f-a25f-b78139474d85",
+        "name": "Graves Hawkins",
+        "age": 30,
+        "weight": 79,
+        "isRetired": true,
+        "nationality": "Nauru",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a927a511e3d115ba924",
+        "guid": "6d376d94-7cab-417e-89bb-1e97b35cb49b",
+        "name": "Nolan Grimes",
+        "age": 24,
+        "weight": 64,
+        "isRetired": false,
+        "nationality": "Cape Verde",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92e7d9c0d697e08a0c",
+      "guidDirector": "7f9fbf92-8c40-4e40-ad22-4cdd9beadec8",
+      "name": "Juanita Lynn",
+      "age": 27,
+      "weight": 136,
+      "isRetired": true,
+      "nationality": "Denmark",
+      "oscarNumber": 3,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92763c71e5125a6411",
+        "guidWriter": "e87be9b2-a0df-4871-912b-21c0b760c24b",
+        "name": "Theresa Meyers",
+        "age": 33,
+        "weight": 98,
+        "isRetired": true,
+        "nationality": "Falkland Islands (Malvinas)",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92d7a71d1e62b9510c",
+        "guidWriter": "74783ac4-e67c-45c5-91c7-e4dd1db28d1b",
+        "name": "Cobb Howell",
+        "age": 59,
+        "weight": 126,
+        "isRetired": true,
+        "nationality": "Turkmenistan",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2020,
+    "nationality": "Estonia",
+    "language": "Italian",
+    "platfotm": "proident",
+    "isMCU": false,
+    "mainCharacterName": "Alicia Keith",
+    "producer": "qui",
+    "distributor": "est",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92b8129b295dd39d36",
+    "guid": "c76f426a-4962-43c2-adb3-2c467d7d0b5c",
+    "title": "Do elit enim culpa officia.",
+    "actors": [
+      {
+        "idActor": "63a09a9274492bb6a0c784be",
+        "guidActor": "b7be780b-6fba-420c-9c08-0c934bc48ef7",
+        "name": "Alvarado Owens",
+        "age": 30,
+        "weight": 80,
+        "isRetired": true,
+        "nationality": "Djibouti",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a925be25c5108aa7a16",
+        "guidActor": "00e13427-c6d3-467f-b570-e3c0750d1431",
+        "name": "Colon Rosa",
+        "age": 38,
+        "weight": 70,
+        "isRetired": false,
+        "nationality": "Turks and Caicos Islands",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92c7ae357d94b1b3df",
+        "guidActor": "65a99886-c121-4beb-bd91-cb57866d305b",
+        "name": "Allison Mayer",
+        "age": 33,
+        "weight": 150,
+        "isRetired": true,
+        "nationality": "Anguilla",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a922af45ffbfe199343",
+        "guid": "b4c566bc-3037-453f-91c4-12b04e2ce941",
+        "name": "Samantha Owen",
+        "age": 60,
+        "weight": 126,
+        "isRetired": true,
+        "nationality": "Palau",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9262850b0e197b9dd4",
+      "guidDirector": "476fe89b-fd88-425a-a0b6-ae4c8cfec92a",
+      "name": "Freda Case",
+      "age": 59,
+      "weight": 112,
+      "isRetired": true,
+      "nationality": "Sri Lanka",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a923edcaf49b9ae5722",
+        "guidWriter": "5f40b34d-1a82-4784-a9de-e05b89501dd7",
+        "name": "Gwen Baldwin",
+        "age": 50,
+        "weight": 132,
+        "isRetired": true,
+        "nationality": "French Polynesia",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92ce12ad588519ea87",
+        "guidWriter": "2200be0b-a749-46cd-97e9-c6a84963b366",
+        "name": "Parsons Mckinney",
+        "age": 69,
+        "weight": 143,
+        "isRetired": false,
+        "nationality": "Haiti",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2015,
+    "nationality": "Bouvet Island",
+    "language": "English",
+    "platfotm": "aute",
+    "isMCU": false,
+    "mainCharacterName": "Rich Kemp",
+    "producer": "consequat",
+    "distributor": "incididunt",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92fd9057d45bf192b9",
+    "guid": "fb74ecfc-acec-4abf-933f-5b82afce0150",
+    "title": "Consequat dolore aute eiusmod ex.",
+    "actors": [
+      {
+        "idActor": "63a09a9231b3d878c26e5247",
+        "guidActor": "24eb629e-8729-4f1c-949e-ef9eaca91ab6",
+        "name": "Hughes Chase",
+        "age": 31,
+        "weight": 145,
+        "isRetired": false,
+        "nationality": "Myanmar",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9251cbfece9815eada",
+        "guidActor": "4594322f-6ba0-4822-906e-216472a8f47f",
+        "name": "Holloway Neal",
+        "age": 49,
+        "weight": 119,
+        "isRetired": false,
+        "nationality": "Sweden",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9258e219f4cfce6328",
+        "guidActor": "cfbd00ba-5834-4469-8510-cb88de868e01",
+        "name": "Eliza Wilcox",
+        "age": 48,
+        "weight": 101,
+        "isRetired": true,
+        "nationality": "Greece",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9277ae68b0cee58459",
+        "guid": "2780cd94-59c2-47dc-a11e-39b9f3a8476e",
+        "name": "Cohen Knapp",
+        "age": 40,
+        "weight": 135,
+        "isRetired": false,
+        "nationality": "Tokelau",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92c9413261966da8a8",
+      "guidDirector": "c6172d77-2971-4d48-b319-5e178dd3a9b6",
+      "name": "Melendez Long",
+      "age": 70,
+      "weight": 93,
+      "isRetired": true,
+      "nationality": "Cuba",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9253970224d86482ab",
+        "guidWriter": "62a2f0fd-53d0-468b-adbf-d418950d078d",
+        "name": "Calhoun Buck",
+        "age": 58,
+        "weight": 143,
+        "isRetired": true,
+        "nationality": "United States",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9269313bc780aad6e5",
+        "guidWriter": "978bfb7b-5b44-48a5-b55b-3be38a4d0e52",
+        "name": "Lynda Leonard",
+        "age": 46,
+        "weight": 120,
+        "isRetired": true,
+        "nationality": "South Africa",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Grenada",
+    "language": "English",
+    "platfotm": "labore",
+    "isMCU": true,
+    "mainCharacterName": "Lucile Hanson",
+    "producer": "exercitation",
+    "distributor": "excepteur",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a92de698c8e8c2f0b25",
+    "guid": "d86f34dc-0684-4268-8de4-ebca9e07dc25",
+    "title": "Ex ipsum exercitation quis cillum proident esse id sint anim dolore nostrud do id.",
+    "actors": [
+      {
+        "idActor": "63a09a92e3a4ce0822b803a6",
+        "guidActor": "7ecca82c-4f95-4b60-a0b9-bd0bcb88298b",
+        "name": "Ursula Rodriquez",
+        "age": 70,
+        "weight": 122,
+        "isRetired": false,
+        "nationality": "Botswana",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92df92785e8ce02517",
+        "guidActor": "e5ac897e-ff81-489d-bf67-ebc3b83ed900",
+        "name": "Belinda Clark",
+        "age": 54,
+        "weight": 149,
+        "isRetired": true,
+        "nationality": "Trinidad and Tobago",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9203c70db6aeaed08a",
+        "guidActor": "d862822a-ec60-4d79-949b-2c942830cf29",
+        "name": "Kinney Burris",
+        "age": 44,
+        "weight": 123,
+        "isRetired": true,
+        "nationality": "Tanzania",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92819d3a1a63e0e6c3",
+        "guid": "348253bf-a761-4c3d-b0eb-3fa013e7cce7",
+        "name": "Jaime Avila",
+        "age": 46,
+        "weight": 134,
+        "isRetired": false,
+        "nationality": "China",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92c4692576c050b38a",
+      "guidDirector": "7f60998c-343c-4b9c-98aa-b3dc17509b91",
+      "name": "Le Vega",
+      "age": 43,
+      "weight": 142,
+      "isRetired": false,
+      "nationality": "Latvia",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a927e34e7b4d54a463c",
+        "guidWriter": "aa9f13f2-8dd8-4f33-88ba-5bc697af9958",
+        "name": "Monica Anderson",
+        "age": 24,
+        "weight": 129,
+        "isRetired": true,
+        "nationality": "Guam",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a920f923f58fb360033",
+        "guidWriter": "9ec016df-dbbe-425b-a103-7a0c4e26e2fd",
+        "name": "Koch Payne",
+        "age": 49,
+        "weight": 91,
+        "isRetired": true,
+        "nationality": "Honduras",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Australia",
+    "language": "French",
+    "platfotm": "non",
+    "isMCU": false,
+    "mainCharacterName": "Blankenship Alford",
+    "producer": "incididunt",
+    "distributor": "labore",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92849789d04dd4c817",
+    "guid": "9b79c30a-624b-4bb8-a8d5-f4cd5d8dfb07",
+    "title": "Minim veniam aliquip ut ut aliquip officia qui amet dolore do.",
+    "actors": [
+      {
+        "idActor": "63a09a925d7e6c3b33dc04a9",
+        "guidActor": "76f7e787-803a-46c0-86b1-3a2017873f6b",
+        "name": "Latonya Aguirre",
+        "age": 25,
+        "weight": 137,
+        "isRetired": true,
+        "nationality": "El Salvador",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92c94c3c3c9628692f",
+        "guidActor": "786ae2c5-cb74-459c-b2b0-179ad31982ac",
+        "name": "Whitehead Acosta",
+        "age": 31,
+        "weight": 106,
+        "isRetired": false,
+        "nationality": "Kyrgyzstan",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9288c28d135fe65ed9",
+        "guidActor": "b8a25094-e477-470f-b098-20ec41bf3f93",
+        "name": "Casey Montgomery",
+        "age": 58,
+        "weight": 94,
+        "isRetired": false,
+        "nationality": "Pitcairn",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92d9ff8aa78fe2af35",
+        "guid": "aa4fecd1-9464-449b-ab43-4740042bc90b",
+        "name": "Krista Leblanc",
+        "age": 63,
+        "weight": 80,
+        "isRetired": false,
+        "nationality": "Samoa",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92dd60ced4019d9199",
+      "guidDirector": "c3eb7943-17f5-4f4c-a607-e6b5e76c0964",
+      "name": "Janice Haley",
+      "age": 31,
+      "weight": 88,
+      "isRetired": false,
+      "nationality": "Niger",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a924843682bd7938bf3",
+        "guidWriter": "a1c4c918-4fbe-460b-b7f0-f0871e4b231f",
+        "name": "Pansy Rollins",
+        "age": 69,
+        "weight": 69,
+        "isRetired": false,
+        "nationality": "Liberia",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92e8aa49c859971dab",
+        "guidWriter": "3b16a672-9e6f-4b67-85c2-e7ba62639264",
+        "name": "Willa Bird",
+        "age": 42,
+        "weight": 119,
+        "isRetired": false,
+        "nationality": "Pakistan",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Antarctica",
+    "language": "Spanish",
+    "platfotm": "cillum",
+    "isMCU": true,
+    "mainCharacterName": "Howell Summers",
+    "producer": "ipsum",
+    "distributor": "reprehenderit",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a929eac3a1217df611a",
+    "guid": "d5cc74bd-3fb5-41ac-8b91-3f3a7797c372",
+    "title": "Deserunt irure ut exercitation culpa do id ea ad nostrud reprehenderit enim sunt velit.",
+    "actors": [
+      {
+        "idActor": "63a09a9235aacddaa8a8448a",
+        "guidActor": "bdc56e7f-ddc1-42a1-98ed-d0dae087f6ce",
+        "name": "Melisa Haney",
+        "age": 51,
+        "weight": 99,
+        "isRetired": false,
+        "nationality": "Viet Nam",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92343391ad18ea041c",
+        "guidActor": "5beb1746-5066-4a72-b638-8b2e2fd1934f",
+        "name": "Teri Harmon",
+        "age": 33,
+        "weight": 84,
+        "isRetired": false,
+        "nationality": "Aruba",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9268d5d2bbf9efc655",
+        "guidActor": "9eedfef6-d01f-4c1e-9204-42cb1fb4990f",
+        "name": "Gretchen Freeman",
+        "age": 31,
+        "weight": 90,
+        "isRetired": true,
+        "nationality": "Qatar",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92ce966580f21d1620",
+        "guid": "fb686909-1f26-4fd5-aa7b-ce605e0855f4",
+        "name": "Stephenson Allison",
+        "age": 63,
+        "weight": 96,
+        "isRetired": false,
+        "nationality": "Netherlands Antilles",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a921df9523d2171a56a",
+      "guidDirector": "01c81b2e-9fbd-46d9-a505-42de128664f0",
+      "name": "Katelyn Monroe",
+      "age": 39,
+      "weight": 114,
+      "isRetired": false,
+      "nationality": "Colombia",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a920f6b7d9257e68160",
+        "guidWriter": "fc1a0a4e-d55d-4f9a-984c-624c6e30b17d",
+        "name": "Dale Henderson",
+        "age": 58,
+        "weight": 89,
+        "isRetired": true,
+        "nationality": "Uzbekistan",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92cd5aae1e1c5a1ac1",
+        "guidWriter": "130b5c91-ce18-4a28-9b5d-3daad761afd0",
+        "name": "Dorsey Delaney",
+        "age": 35,
+        "weight": 90,
+        "isRetired": true,
+        "nationality": "St. Helena",
+        "oscarNumber": 1,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2015,
+    "nationality": "Suriname",
+    "language": "English",
+    "platfotm": "officia",
+    "isMCU": false,
+    "mainCharacterName": "Butler Caldwell",
+    "producer": "in",
+    "distributor": "nostrud",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92b5c810b19f497968",
+    "guid": "5efa93ae-fbe8-40ce-a334-73f8dc4bb79e",
+    "title": "Ad cupidatat deserunt duis laboris nostrud reprehenderit laboris Lorem anim aliqua ipsum pariatur qui ad.",
+    "actors": [
+      {
+        "idActor": "63a09a922d0292db354f09bd",
+        "guidActor": "facad998-a6ef-4cbc-8f75-cc56f11cbdc1",
+        "name": "Hooper Hammond",
+        "age": 45,
+        "weight": 99,
+        "isRetired": false,
+        "nationality": "Canada",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9235afce16cbfddafd",
+        "guidActor": "f6578685-1863-49e7-a78d-ceebf03ab0eb",
+        "name": "Finch Reid",
+        "age": 50,
+        "weight": 110,
+        "isRetired": true,
+        "nationality": "Saudi Arabia",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92125c03ffd1e9f947",
+        "guidActor": "856a87ab-94b9-4559-a40b-d3aa66191e91",
+        "name": "Carr Beck",
+        "age": 40,
+        "weight": 87,
+        "isRetired": false,
+        "nationality": "Liechtenstein",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9295ace708e5d74d99",
+        "guid": "bfdd1e4d-5716-43e1-abcc-42bc86214a6b",
+        "name": "Debora Webster",
+        "age": 45,
+        "weight": 62,
+        "isRetired": false,
+        "nationality": "Guatemala",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92eeb29297c59c90cf",
+      "guidDirector": "51d3e4f5-3ded-417a-98e6-ab66a058c530",
+      "name": "Rosie Campos",
+      "age": 51,
+      "weight": 148,
+      "isRetired": true,
+      "nationality": "Luxembourg",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92541259f7cf643ffb",
+        "guidWriter": "64d86511-e2b3-4be4-aa5f-2ff4d790365c",
+        "name": "Carey Casey",
+        "age": 33,
+        "weight": 99,
+        "isRetired": true,
+        "nationality": "Hungary",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92df69cba85ce9582f",
+        "guidWriter": "78bad489-b09a-4f52-b14e-e71bb896fb54",
+        "name": "Gill Whitaker",
+        "age": 54,
+        "weight": 148,
+        "isRetired": true,
+        "nationality": "Poland",
+        "oscarNumber": 3,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2019,
+    "nationality": "Uganda",
+    "language": "English",
+    "platfotm": "occaecat",
+    "isMCU": false,
+    "mainCharacterName": "Kirk Rodgers",
+    "producer": "pariatur",
+    "distributor": "sint",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a924f44e3a823f28dc5",
+    "guid": "457b487f-8696-43ac-8ed7-fa3a220a8c7f",
+    "title": "Reprehenderit et aliqua veniam qui aliqua quis ea deserunt occaecat nulla consequat deserunt commodo.",
+    "actors": [
+      {
+        "idActor": "63a09a92442156aecfa638a5",
+        "guidActor": "bb5ab84b-092a-454b-b2dd-3e581ee92acf",
+        "name": "Meadows Christensen",
+        "age": 48,
+        "weight": 132,
+        "isRetired": false,
+        "nationality": "Puerto Rico",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a922b90a23ae50e512b",
+        "guidActor": "35482d22-d32d-4914-bb37-22c9055e906a",
+        "name": "Selma Paul",
+        "age": 31,
+        "weight": 99,
+        "isRetired": false,
+        "nationality": "Iceland",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9232734fc6f3eb5020",
+        "guidActor": "1cbdd1be-8fc5-4e46-b783-3b600fd7e949",
+        "name": "Holman Shields",
+        "age": 58,
+        "weight": 110,
+        "isRetired": true,
+        "nationality": "Croatia (Hrvatska)",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92b65b42ba94d8ef6e",
+        "guid": "ef1402d4-2596-48a1-b16f-6e941c720331",
+        "name": "Boyer Nielsen",
+        "age": 52,
+        "weight": 116,
+        "isRetired": false,
+        "nationality": "Russian Federation",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92272d96e0b2a68e0c",
+      "guidDirector": "60fc1a3e-f7ae-4107-9f8e-4a25929b663b",
+      "name": "Gay Ray",
+      "age": 53,
+      "weight": 61,
+      "isRetired": false,
+      "nationality": "Oman",
+      "oscarNumber": 3,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92c4057931d2b4ca05",
+        "guidWriter": "936f6c38-d50e-4672-a31d-4cb67d22f546",
+        "name": "Minnie Gregory",
+        "age": 64,
+        "weight": 135,
+        "isRetired": false,
+        "nationality": "Laos",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a927e24bb13fa15c009",
+        "guidWriter": "606a2cf8-a58a-4115-b992-3b74dc534d6d",
+        "name": "Knapp Mcbride",
+        "age": 53,
+        "weight": 143,
+        "isRetired": false,
+        "nationality": "Cook Islands",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Macau",
+    "language": "Spanish",
+    "platfotm": "id",
+    "isMCU": true,
+    "mainCharacterName": "Joni Ayers",
+    "producer": "cupidatat",
+    "distributor": "sit",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92648e07a8d95dec9a",
+    "guid": "cff00871-99b9-4db7-848a-12dc8edc5147",
+    "title": "Do cillum tempor pariatur nulla commodo voluptate in elit et eiusmod.",
+    "actors": [
+      {
+        "idActor": "63a09a925d8903dca22f2816",
+        "guidActor": "56225d27-12c0-4b5d-9a58-a664e34e0c6c",
+        "name": "Hickman Luna",
+        "age": 59,
+        "weight": 147,
+        "isRetired": false,
+        "nationality": "Barbados",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92dec293b8488be533",
+        "guidActor": "820cb81d-1330-4d8e-9ffa-601f8c5142f4",
+        "name": "Silva Best",
+        "age": 20,
+        "weight": 100,
+        "isRetired": true,
+        "nationality": "Iraq",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9264551db2c2a59da8",
+        "guidActor": "ca66aae2-74ea-439f-92b4-e503d846dd9e",
+        "name": "Lorene Sargent",
+        "age": 28,
+        "weight": 118,
+        "isRetired": false,
+        "nationality": "Andorra",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92aa7b315396a6f034",
+        "guid": "4739933b-a4a4-43c2-8a1d-41b1e4913c40",
+        "name": "Wilson Mitchell",
+        "age": 40,
+        "weight": 95,
+        "isRetired": true,
+        "nationality": "United Kingdom",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92daa7e76370072143",
+      "guidDirector": "c62039d0-ad1c-47ab-ba8d-7de29bcc7b6c",
+      "name": "Robinson Curtis",
+      "age": 34,
+      "weight": 75,
+      "isRetired": false,
+      "nationality": "Northern Mariana Islands",
+      "oscarNumber": 5,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92f106b7edad8ba5b2",
+        "guidWriter": "200cfe6e-2bd0-42b2-bc26-57341b783e11",
+        "name": "Leon Fisher",
+        "age": 65,
+        "weight": 69,
+        "isRetired": true,
+        "nationality": "Central African Republic",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92c052e9d3f917613f",
+        "guidWriter": "da3537d0-f113-4a44-9279-7dfc65d020ba",
+        "name": "Eileen Marsh",
+        "age": 38,
+        "weight": 139,
+        "isRetired": false,
+        "nationality": "Ecuador",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2021,
+    "nationality": "Germany",
+    "language": "English",
+    "platfotm": "labore",
+    "isMCU": false,
+    "mainCharacterName": "Glass Holden",
+    "producer": "magna",
+    "distributor": "aliqua",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92e62ca93415e66d1b",
+    "guid": "79422639-5406-457d-aa87-856d212ee88f",
+    "title": "Non ullamco voluptate anim aliquip tempor sint mollit sint velit consectetur consectetur ullamco amet.",
+    "actors": [
+      {
+        "idActor": "63a09a9237320d212d5ffa39",
+        "guidActor": "dcbd5306-8d02-401d-b8fb-d297160d647a",
+        "name": "Margret Nash",
+        "age": 69,
+        "weight": 113,
+        "isRetired": true,
+        "nationality": "Bhutan",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92576e8042d562fc4c",
+        "guidActor": "cafc5b00-f3f8-4e49-9073-a53236ad17a6",
+        "name": "Madge Moore",
+        "age": 50,
+        "weight": 102,
+        "isRetired": true,
+        "nationality": "Seychelles",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92c8e3363f69f0b115",
+        "guidActor": "4046d14d-a668-43dc-8374-6f9fab76c2f8",
+        "name": "Finley Perry",
+        "age": 20,
+        "weight": 98,
+        "isRetired": false,
+        "nationality": "Slovenia",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92409d69ad5adbeb76",
+        "guid": "ac9e047f-b631-445a-913b-a3c09c090f7a",
+        "name": "Kirkland Gilbert",
+        "age": 21,
+        "weight": 93,
+        "isRetired": false,
+        "nationality": "Hong Kong",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a928ad801ab63b5c8e5",
+      "guidDirector": "d25d0d27-b3e6-4340-88a0-bae63dd47433",
+      "name": "Massey Downs",
+      "age": 22,
+      "weight": 106,
+      "isRetired": false,
+      "nationality": "Brazil",
+      "oscarNumber": 5,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92f2c550e4a505fcb7",
+        "guidWriter": "1fbf96ac-54b7-4923-af01-9333c4f91f7e",
+        "name": "Valeria Wallace",
+        "age": 67,
+        "weight": 117,
+        "isRetired": true,
+        "nationality": "Dominica",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92b200b4a8e663a460",
+        "guidWriter": "9355ccb7-9258-461c-a4ab-a3a8276624b6",
+        "name": "Cathryn Robinson",
+        "age": 38,
+        "weight": 106,
+        "isRetired": true,
+        "nationality": "Cyprus",
+        "oscarNumber": 3,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2017,
+    "nationality": "Indonesia",
+    "language": "Italian",
+    "platfotm": "id",
+    "isMCU": true,
+    "mainCharacterName": "Summer Barker",
+    "producer": "in",
+    "distributor": "velit",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a928a8bd07653e3ed3c",
+    "guid": "b2887374-cc33-43ad-8ff3-75f5b082e64e",
+    "title": "Magna elit non ipsum elit esse voluptate voluptate qui enim.",
+    "actors": [
+      {
+        "idActor": "63a09a9273481fce0c876fa8",
+        "guidActor": "ea2b89f1-a613-488b-acf6-0a24994547d0",
+        "name": "Diann Randall",
+        "age": 62,
+        "weight": 88,
+        "isRetired": true,
+        "nationality": "Comoros",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92b106d357a73a477e",
+        "guidActor": "acb947e5-dafb-412f-b2c3-6d0c063526c3",
+        "name": "Richmond Mcguire",
+        "age": 66,
+        "weight": 65,
+        "isRetired": true,
+        "nationality": "French Southern Territories",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92b1d65e192cb1c115",
+        "guidActor": "2467f5b7-eda2-4cf2-bdf7-d38e65516646",
+        "name": "Beatriz Huber",
+        "age": 69,
+        "weight": 145,
+        "isRetired": false,
+        "nationality": "Virgin Islands (US)",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a924d4d9bc46b42d85d",
+        "guid": "555c727f-b2d5-4d81-94ef-7257f6da2844",
+        "name": "Hillary Dorsey",
+        "age": 37,
+        "weight": 124,
+        "isRetired": false,
+        "nationality": "Saint Lucia",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9219853790a1899e1a",
+      "guidDirector": "97b9b963-0195-42fd-aec5-5c9d0171df4f",
+      "name": "Barlow Hale",
+      "age": 43,
+      "weight": 89,
+      "isRetired": false,
+      "nationality": "Norway",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92eceb126021ce5c64",
+        "guidWriter": "2ca1c8a7-44d9-4eec-afa2-5d1d697756b7",
+        "name": "Noelle Norris",
+        "age": 44,
+        "weight": 150,
+        "isRetired": false,
+        "nationality": "Senegal",
+        "oscarNumber": 7,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92f046f8f43595d834",
+        "guidWriter": "489989bc-4b20-442a-8132-5f5b2cf5039a",
+        "name": "Acevedo Mccullough",
+        "age": 44,
+        "weight": 82,
+        "isRetired": true,
+        "nationality": "Mauritius",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2020,
+    "nationality": "Syria",
+    "language": "English",
+    "platfotm": "labore",
+    "isMCU": true,
+    "mainCharacterName": "Suzanne Webb",
+    "producer": "consectetur",
+    "distributor": "deserunt",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a927c646d28f107c16b",
+    "guid": "6840bdd6-c71e-4b1a-8e5b-4b436ef12b90",
+    "title": "Qui ullamco consequat dolor ex sunt exercitation est laborum minim.",
+    "actors": [
+      {
+        "idActor": "63a09a9247178d8666570f3b",
+        "guidActor": "adafdeb6-2f70-45ee-88fc-6a58d5d8287d",
+        "name": "Powers Kelley",
+        "age": 24,
+        "weight": 145,
+        "isRetired": false,
+        "nationality": "Belarus",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a922a1a110318904520",
+        "guidActor": "4afd3ca8-847e-46ca-b6f9-c0b76b015459",
+        "name": "Joyce Flores",
+        "age": 62,
+        "weight": 91,
+        "isRetired": true,
+        "nationality": "Nigeria",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a929078f3a9a03336f0",
+        "guidActor": "52ca4bfd-c76e-4d18-bf07-1d31b76ad65c",
+        "name": "Janie Greene",
+        "age": 20,
+        "weight": 112,
+        "isRetired": true,
+        "nationality": "Saint Vincent and The Grenadines",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92722cc5f39e09bf53",
+        "guid": "b4641403-617d-4042-b35c-43d278f03f9c",
+        "name": "Spence Larson",
+        "age": 53,
+        "weight": 134,
+        "isRetired": false,
+        "nationality": "Reunion",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9223a18ef4059f148f",
+      "guidDirector": "4d6d4459-ec62-4c50-8953-79c1f3a91492",
+      "name": "Delores Salinas",
+      "age": 55,
+      "weight": 136,
+      "isRetired": false,
+      "nationality": "Vanuatu",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92f6eda4f52812f447",
+        "guidWriter": "cee3d476-8201-487e-8b97-61f2d44a2bcd",
+        "name": "Dollie Martin",
+        "age": 23,
+        "weight": 142,
+        "isRetired": true,
+        "nationality": "Georgia",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a929db1d737a892b677",
+        "guidWriter": "01059c17-19db-407a-8a6f-b60d5703ebe8",
+        "name": "Irene Todd",
+        "age": 67,
+        "weight": 120,
+        "isRetired": false,
+        "nationality": "Bolivia",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Macedonia",
+    "language": "English",
+    "platfotm": "ea",
+    "isMCU": false,
+    "mainCharacterName": "Carrillo Everett",
+    "producer": "eiusmod",
+    "distributor": "non",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a92c5d2aaeed9909854",
+    "guid": "27933bba-52fe-4bd7-9d56-d5afb376825d",
+    "title": "Ad esse do irure consectetur eiusmod est minim irure aute amet pariatur fugiat.",
+    "actors": [
+      {
+        "idActor": "63a09a928c0b29389e380f65",
+        "guidActor": "00583d86-39c7-4140-9efd-a8ddd8cc4694",
+        "name": "Agnes Cain",
+        "age": 21,
+        "weight": 104,
+        "isRetired": false,
+        "nationality": "Jordan",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92cbdeb51eb4f78ee2",
+        "guidActor": "2cdb4642-077b-47bf-aa4e-2ebdeca474d6",
+        "name": "Ruiz Charles",
+        "age": 55,
+        "weight": 96,
+        "isRetired": false,
+        "nationality": "Panama",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92987dfdf524aa5efc",
+        "guidActor": "d498aac6-1ac9-4e4b-aa95-ddc5af5134a1",
+        "name": "Annette Joyce",
+        "age": 37,
+        "weight": 68,
+        "isRetired": true,
+        "nationality": "Wallis and Futuna Islands",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a924419f046192a9ed6",
+        "guid": "98df59d6-a709-48f1-9dc8-913d30efc040",
+        "name": "Madden Harper",
+        "age": 38,
+        "weight": 147,
+        "isRetired": true,
+        "nationality": "Slovak Republic",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92ddf4966ab90c26a7",
+      "guidDirector": "d90e3338-2570-4780-83ec-6bd9d47301c8",
+      "name": "Bessie Schneider",
+      "age": 28,
+      "weight": 138,
+      "isRetired": false,
+      "nationality": "Svalbard and Jan Mayen Islands",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9248449d6d57d79683",
+        "guidWriter": "8d3f7343-b6d2-416e-a9d4-48103ebf31b1",
+        "name": "Blanca Frank",
+        "age": 24,
+        "weight": 100,
+        "isRetired": true,
+        "nationality": "Rwanda",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a928dc540dfbc818c9c",
+        "guidWriter": "7f3aa4a0-c9b1-4c54-8f02-50470d865d6d",
+        "name": "Mooney Odom",
+        "age": 48,
+        "weight": 111,
+        "isRetired": false,
+        "nationality": "Costa Rica",
+        "oscarNumber": 3,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Madagascar",
+    "language": "Italian",
+    "platfotm": "aliqua",
+    "isMCU": false,
+    "mainCharacterName": "Lucille Pittman",
+    "producer": "qui",
+    "distributor": "aute",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a9287bdd79458a1c0e4",
+    "guid": "1170fef3-3ca8-4eae-9466-5a20211eacde",
+    "title": "Aliquip proident dolor quis et incididunt tempor quis do aute do dolore exercitation.",
+    "actors": [
+      {
+        "idActor": "63a09a922200a6150561ff94",
+        "guidActor": "5195989d-47c8-4f64-97e1-0b840d660150",
+        "name": "Vargas Hubbard",
+        "age": 37,
+        "weight": 72,
+        "isRetired": false,
+        "nationality": "S. Georgia and S. Sandwich Isls.",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92a0a206fbc34d1a93",
+        "guidActor": "9875fc21-c39d-4fcd-94e5-5cf20cb76039",
+        "name": "Barr Snow",
+        "age": 51,
+        "weight": 130,
+        "isRetired": false,
+        "nationality": "Vatican City State (Holy See)",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92e1e5b92f197774ed",
+        "guidActor": "1c9930be-cdcb-44e3-a81c-8b3f9a8d02ec",
+        "name": "Minerva Burch",
+        "age": 38,
+        "weight": 91,
+        "isRetired": false,
+        "nationality": "US Minor Outlying Islands",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f93c8d36b6ea7a06",
+        "guid": "cf49c8ba-721a-49e5-ac31-d228af679218",
+        "name": "Jana Brady",
+        "age": 42,
+        "weight": 98,
+        "isRetired": true,
+        "nationality": "Sudan",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92b7d8d8fa4cfc56cf",
+      "guidDirector": "00f7e018-5cf1-4ae0-9687-d648d4425f79",
+      "name": "Gilda Prince",
+      "age": 37,
+      "weight": 74,
+      "isRetired": true,
+      "nationality": "United Arab Emirates",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92a405ceac40d6fe69",
+        "guidWriter": "8a25cf02-d913-485f-9334-0a91b069df5d",
+        "name": "Becker Waters",
+        "age": 29,
+        "weight": 129,
+        "isRetired": false,
+        "nationality": "Kiribati",
+        "oscarNumber": 7,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92ba6a413215fbde7c",
+        "guidWriter": "ac2bc8c9-0ded-45a3-aac7-c7d67066d5bf",
+        "name": "Beach Slater",
+        "age": 28,
+        "weight": 63,
+        "isRetired": false,
+        "nationality": "Gambia",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2014,
+    "nationality": "Cocos (Keeling Islands)",
+    "language": "French",
+    "platfotm": "ullamco",
+    "isMCU": true,
+    "mainCharacterName": "Carla Nelson",
+    "producer": "amet",
+    "distributor": "et",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92934489509997e6d1",
+    "guid": "83ebd29d-ef54-4acc-b805-8745926c2dbe",
+    "title": "Elit eiusmod laboris fugiat reprehenderit non consectetur commodo eiusmod cillum ipsum in fugiat.",
+    "actors": [
+      {
+        "idActor": "63a09a920f448276ba811b2a",
+        "guidActor": "73917862-30b7-430d-8b86-ee2609406bbf",
+        "name": "Ella Hernandez",
+        "age": 69,
+        "weight": 64,
+        "isRetired": true,
+        "nationality": "Tuvalu",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92bf7ac37caf172480",
+        "guidActor": "bfb7118c-0364-4d24-819c-0e50c238b494",
+        "name": "Brittany Wooten",
+        "age": 44,
+        "weight": 104,
+        "isRetired": false,
+        "nationality": "Mayotte",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a925d4a5fbc6d70535e",
+        "guidActor": "9e12c006-5a12-4cf3-9c8b-5f0a256b4c2b",
+        "name": "Velma Abbott",
+        "age": 22,
+        "weight": 143,
+        "isRetired": false,
+        "nationality": "Antigua and Barbuda",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92da60c3f2c3228512",
+        "guid": "531f94b1-2a8e-481b-a945-52b4d2943258",
+        "name": "Harper Floyd",
+        "age": 51,
+        "weight": 136,
+        "isRetired": false,
+        "nationality": "Philippines",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9292ce59a635388fc0",
+      "guidDirector": "eddc3b2e-1e8a-4d3e-a183-beb92f732958",
+      "name": "Audra Oliver",
+      "age": 56,
+      "weight": 99,
+      "isRetired": false,
+      "nationality": "Korea (South)",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9234faa5263192949c",
+        "guidWriter": "741766e1-57ff-4157-8e70-421c0acae957",
+        "name": "Byrd Harrell",
+        "age": 29,
+        "weight": 103,
+        "isRetired": false,
+        "nationality": "Cayman Islands",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9265a33e5fdd76f9af",
+        "guidWriter": "532c7772-476d-4560-b088-acd155555d1e",
+        "name": "Lillian Stevenson",
+        "age": 46,
+        "weight": 88,
+        "isRetired": true,
+        "nationality": "Greenland",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Equatorial Guinea",
+    "language": "French",
+    "platfotm": "excepteur",
+    "isMCU": true,
+    "mainCharacterName": "Daphne Daugherty",
+    "producer": "aliquip",
+    "distributor": "quis",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92ff253bc70fd0fa16",
+    "guid": "dae6c800-5177-4b6c-9eb9-077f7a62e3e5",
+    "title": "Labore et nisi sint officia pariatur exercitation nulla excepteur duis non non anim laboris anim.",
+    "actors": [
+      {
+        "idActor": "63a09a92f2fe58a3e37a5b73",
+        "guidActor": "c998b03f-ff75-4bb6-a49d-ceb97423bd5f",
+        "name": "Valdez Winters",
+        "age": 53,
+        "weight": 110,
+        "isRetired": false,
+        "nationality": "Benin",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9264ae965a610cd2a2",
+        "guidActor": "2b9482e4-82c8-46d0-bc78-0c1ac4ecaff7",
+        "name": "Small Dillard",
+        "age": 28,
+        "weight": 99,
+        "isRetired": false,
+        "nationality": "Mongolia",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a923abed33c7245e134",
+        "guidActor": "35e4447b-0c23-4422-b3cf-ecf3da26ca76",
+        "name": "Pena Norman",
+        "age": 22,
+        "weight": 78,
+        "isRetired": false,
+        "nationality": "Norfolk Island",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a925a5bdfad47481f6f",
+        "guid": "56154255-6c05-4f69-9fcb-be69d31b5f84",
+        "name": "Pamela Callahan",
+        "age": 22,
+        "weight": 112,
+        "isRetired": false,
+        "nationality": "Italy",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92dc432945502afba6",
+      "guidDirector": "6f04d695-3a39-4254-a35c-702756f342b3",
+      "name": "Luisa Petersen",
+      "age": 70,
+      "weight": 99,
+      "isRetired": true,
+      "nationality": "Kenya",
+      "oscarNumber": 7,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9275fc8c7b277d2733",
+        "guidWriter": "4f647d3a-82d7-4e13-9132-f6132e902af1",
+        "name": "Nichols Roy",
+        "age": 61,
+        "weight": 82,
+        "isRetired": false,
+        "nationality": "Ireland",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92e9aa798bdaf7343a",
+        "guidWriter": "a3f99c6e-ddc7-4446-915a-e3ef57f60d50",
+        "name": "Kristie Parks",
+        "age": 21,
+        "weight": 116,
+        "isRetired": false,
+        "nationality": "New Zealand",
+        "oscarNumber": 5,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2015,
+    "nationality": "Cambodia",
+    "language": "English",
+    "platfotm": "mollit",
+    "isMCU": false,
+    "mainCharacterName": "Oliver Ratliff",
+    "producer": "quis",
+    "distributor": "ullamco",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a92a4186ca995c1e07d",
+    "guid": "11d88076-1bc6-47fe-9108-a3c2ce1cd6c1",
+    "title": "Deserunt anim anim sit do pariatur pariatur pariatur fugiat laborum minim laboris.",
+    "actors": [
+      {
+        "idActor": "63a09a9270a0328da5d15ca0",
+        "guidActor": "4e7c876e-4ebe-4b95-86c0-ca8f4d4b8e55",
+        "name": "Hardin Dunn",
+        "age": 23,
+        "weight": 62,
+        "isRetired": false,
+        "nationality": "Malta",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9224c56de0ada2a310",
+        "guidActor": "7f9c9c2e-454e-437f-8a4f-0afb3b22b566",
+        "name": "William Ayala",
+        "age": 36,
+        "weight": 71,
+        "isRetired": false,
+        "nationality": "Yemen",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92d8d62072269473df",
+        "guidActor": "7e56b64a-e46d-4fca-adf7-c76772745efc",
+        "name": "Sampson Wilson",
+        "age": 46,
+        "weight": 142,
+        "isRetired": false,
+        "nationality": "Nicaragua",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921aae1ecb52430701",
+        "guid": "ebe4a373-14fd-4973-8400-73950e4d5ac5",
+        "name": "Fanny Sloan",
+        "age": 51,
+        "weight": 140,
+        "isRetired": true,
+        "nationality": "Mozambique",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92c017b6d440577c95",
+      "guidDirector": "6e29cfd5-c7bd-4332-a61e-5e711d57b389",
+      "name": "Tammie Ewing",
+      "age": 67,
+      "weight": 116,
+      "isRetired": false,
+      "nationality": "Eritrea",
+      "oscarNumber": 1,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9265bbde6a61151478",
+        "guidWriter": "395babe0-0051-4d40-a876-b1680bfc8838",
+        "name": "Peggy Mcgee",
+        "age": 48,
+        "weight": 80,
+        "isRetired": true,
+        "nationality": "Chile",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9275f4d0f76bedd657",
+        "guidWriter": "ce34d8ff-aa61-4590-82d3-88a9fe475aff",
+        "name": "Dina Molina",
+        "age": 58,
+        "weight": 110,
+        "isRetired": false,
+        "nationality": "Lebanon",
+        "oscarNumber": 4,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2019,
+    "nationality": "Turkey",
+    "language": "English",
+    "platfotm": "ex",
+    "isMCU": false,
+    "mainCharacterName": "Watts Rojas",
+    "producer": "pariatur",
+    "distributor": "veniam",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92a9c8b5f4ceeda711",
+    "guid": "6c858764-1c45-4969-8195-abb14fe37548",
+    "title": "Id eu pariatur aute officia sunt est nisi deserunt in dolore excepteur non veniam.",
+    "actors": [
+      {
+        "idActor": "63a09a920fbf7927fbeb83bf",
+        "guidActor": "bfa7346c-16aa-4299-92b5-dcddb8f0ed0f",
+        "name": "Beverly Vaughn",
+        "age": 56,
+        "weight": 126,
+        "isRetired": true,
+        "nationality": "Yugoslavia",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a923415777d8ea9725d",
+        "guidActor": "4fbca1a4-d02b-4f5c-8c8c-2a4dcf3c3130",
+        "name": "Jennings Hurley",
+        "age": 27,
+        "weight": 105,
+        "isRetired": false,
+        "nationality": "Tunisia",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a928fd33ac6a51af28c",
+        "guidActor": "2be9019e-9765-4067-86bc-a4356970b7cc",
+        "name": "Sandra Bates",
+        "age": 53,
+        "weight": 99,
+        "isRetired": true,
+        "nationality": "Togo",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92551c4fec1179a837",
+        "guid": "3c44038c-3f73-4c5d-a2a1-151ec436093e",
+        "name": "Heath Sharp",
+        "age": 62,
+        "weight": 79,
+        "isRetired": true,
+        "nationality": "Gabon",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92459b161365ee581e",
+      "guidDirector": "b6b7654f-3b40-43f6-af92-515977d4ca9e",
+      "name": "Gates James",
+      "age": 64,
+      "weight": 65,
+      "isRetired": false,
+      "nationality": "Guyana",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a927afb395435bd513e",
+        "guidWriter": "fb48bfe0-c8d7-4b46-b59e-178d781c4b8a",
+        "name": "Bernard Wong",
+        "age": 67,
+        "weight": 78,
+        "isRetired": true,
+        "nationality": "Jamaica",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9239462f92df28dc62",
+        "guidWriter": "12945e6a-c957-40d8-afa2-ef9d6b5d265b",
+        "name": "Berg Zimmerman",
+        "age": 36,
+        "weight": 75,
+        "isRetired": false,
+        "nationality": "Algeria",
+        "oscarNumber": 3,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2014,
+    "nationality": "Albania",
+    "language": "French",
+    "platfotm": "mollit",
+    "isMCU": false,
+    "mainCharacterName": "Roberson Stafford",
+    "producer": "nostrud",
+    "distributor": "velit",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a9209ee791735d053fb",
+    "guid": "5be655f9-a5b8-4d29-b814-b49797e7dea7",
+    "title": "Consectetur amet esse irure cillum nisi ut cupidatat do sint ullamco consequat Lorem ex ullamco.",
+    "actors": [
+      {
+        "idActor": "63a09a925eae2901225a9b31",
+        "guidActor": "4415a1a9-981f-4a24-9ce5-0f6ca069546c",
+        "name": "Hinton Decker",
+        "age": 59,
+        "weight": 122,
+        "isRetired": true,
+        "nationality": "Romania",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92c51d095f04e05403",
+        "guidActor": "9885599c-4d84-457a-825f-992cf28fc9ac",
+        "name": "Marshall Dawson",
+        "age": 22,
+        "weight": 146,
+        "isRetired": true,
+        "nationality": "Finland",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92ec9796c3cd11a4f9",
+        "guidActor": "1f14b791-47f8-4470-8b6b-56262960ed21",
+        "name": "Desiree Thornton",
+        "age": 44,
+        "weight": 97,
+        "isRetired": false,
+        "nationality": "Malawi",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a923d7e5f123aca16e6",
+        "guid": "e8feb634-ce36-480f-9019-d023fc2c2286",
+        "name": "Weeks Carver",
+        "age": 31,
+        "weight": 129,
+        "isRetired": false,
+        "nationality": "Azerbaijan",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92d5b6196b3a66c37d",
+      "guidDirector": "b8b02bfd-3fee-474f-917e-e5e9c58fb360",
+      "name": "Pittman York",
+      "age": 65,
+      "weight": 144,
+      "isRetired": false,
+      "nationality": "Papua New Guinea",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92bb73b7bd38c83e6e",
+        "guidWriter": "c4d10a7b-4e38-4d26-86fd-9cc9d9e626cc",
+        "name": "Cathleen Weaver",
+        "age": 29,
+        "weight": 117,
+        "isRetired": true,
+        "nationality": "Bosnia and Herzegovina",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9233f13b8f0466e985",
+        "guidWriter": "c223cd65-a646-4c1e-93d9-20ce0ce989dc",
+        "name": "Valarie Tucker",
+        "age": 41,
+        "weight": 122,
+        "isRetired": false,
+        "nationality": "Moldova",
+        "oscarNumber": 3,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2021,
+    "nationality": "Lesotho",
+    "language": "English",
+    "platfotm": "enim",
+    "isMCU": false,
+    "mainCharacterName": "Leanna Cooke",
+    "producer": "ipsum",
+    "distributor": "duis",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92ddcb68cf6bda585e",
+    "guid": "0d8fcf5c-51d1-4d71-a3a1-f2be039e1a75",
+    "title": "Anim consectetur dolore enim magna nisi tempor excepteur velit.",
+    "actors": [
+      {
+        "idActor": "63a09a920916a2611c9302ce",
+        "guidActor": "44a679c8-bab4-4b83-bd7e-5b74869462eb",
+        "name": "Weiss Nunez",
+        "age": 33,
+        "weight": 79,
+        "isRetired": false,
+        "nationality": "Mali",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a923f136cb14d3b9d8f",
+        "guidActor": "e06adcf8-18a3-4176-9d1b-276a8e5fca9a",
+        "name": "Jenny Spence",
+        "age": 38,
+        "weight": 76,
+        "isRetired": false,
+        "nationality": "Czech Republic",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92ffe0afca02e173b3",
+        "guidActor": "91d1539a-2860-4d5c-8dad-293c0a3c2e34",
+        "name": "Florine Burgess",
+        "age": 24,
+        "weight": 128,
+        "isRetired": true,
+        "nationality": "Bulgaria",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9267ccb68e291aeb0d",
+        "guid": "f2ec8531-acff-4245-8cba-71b3f60de51b",
+        "name": "Robert Hardy",
+        "age": 70,
+        "weight": 118,
+        "isRetired": false,
+        "nationality": "Paraguay",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92226b493c0362ce4f",
+      "guidDirector": "3c4a2bef-fad1-4e30-b983-b76de2b9848c",
+      "name": "Cassandra White",
+      "age": 46,
+      "weight": 137,
+      "isRetired": false,
+      "nationality": "Micronesia",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92403257e5b96d18af",
+        "guidWriter": "d88cf869-cad5-46be-85c5-671fd7b60c37",
+        "name": "Castaneda Durham",
+        "age": 27,
+        "weight": 130,
+        "isRetired": true,
+        "nationality": "Argentina",
+        "oscarNumber": 7,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92bd59a84d9c1653ec",
+        "guidWriter": "1fe895db-e1ec-4f77-bc15-e7754374df20",
+        "name": "Bonnie Medina",
+        "age": 56,
+        "weight": 89,
+        "isRetired": false,
+        "nationality": "Netherlands",
+        "oscarNumber": 1,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2022,
+    "nationality": "French Guiana",
+    "language": "Spanish",
+    "platfotm": "anim",
+    "isMCU": false,
+    "mainCharacterName": "Kathryn Grant",
+    "producer": "laborum",
+    "distributor": "nulla",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a92eed23a9dcbdb4299",
+    "guid": "f9e69844-fcf3-40e2-9014-696281fff835",
+    "title": "Tempor ipsum sint labore nisi ea ad et consectetur velit occaecat duis commodo.",
+    "actors": [
+      {
+        "idActor": "63a09a9220e2d73a4410db69",
+        "guidActor": "f70e084e-8048-4631-a509-5165f3d89638",
+        "name": "Cardenas Kane",
+        "age": 38,
+        "weight": 86,
+        "isRetired": true,
+        "nationality": "Libya",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a926c1332bc6671658f",
+        "guidActor": "7ddb3675-e841-4238-a918-57d4a296737b",
+        "name": "Charmaine Dennis",
+        "age": 70,
+        "weight": 71,
+        "isRetired": true,
+        "nationality": "Bangladesh",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921c1e2f1bf618deb4",
+        "guidActor": "afbd6d15-98a7-4eb0-8a65-f46368c2d794",
+        "name": "Burch Atkins",
+        "age": 25,
+        "weight": 104,
+        "isRetired": true,
+        "nationality": "East Timor",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92b1bcb0650b347c2a",
+        "guid": "42db39ea-9d72-4019-8d82-424f1573aa44",
+        "name": "Lydia Kinney",
+        "age": 23,
+        "weight": 144,
+        "isRetired": true,
+        "nationality": "France",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92a9340adab4d96878",
+      "guidDirector": "3e9573f6-7042-4dc8-abf0-2dd598886b71",
+      "name": "Florence Shaffer",
+      "age": 63,
+      "weight": 147,
+      "isRetired": false,
+      "nationality": "Portugal",
+      "oscarNumber": 4,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a924986f4b285a0dafc",
+        "guidWriter": "49227ca6-0e5c-4656-bc57-f8648b20cc0e",
+        "name": "Terry Pena",
+        "age": 43,
+        "weight": 125,
+        "isRetired": true,
+        "nationality": "Malaysia",
+        "oscarNumber": 2,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92505a33a459cf4937",
+        "guidWriter": "aa66ba27-05e6-4128-94ec-1ed68d15b30e",
+        "name": "Margery Rosales",
+        "age": 42,
+        "weight": 137,
+        "isRetired": true,
+        "nationality": "San Marino",
+        "oscarNumber": 2,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Taiwan",
+    "language": "French",
+    "platfotm": "labore",
+    "isMCU": false,
+    "mainCharacterName": "Berger Brennan",
+    "producer": "eu",
+    "distributor": "in",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a9228d227de8aa53354",
+    "guid": "217b5e1b-6d82-40c4-a703-09bcb337ca69",
+    "title": "Velit officia do excepteur nulla eu magna eiusmod cillum occaecat.",
+    "actors": [
+      {
+        "idActor": "63a09a923304812572e6d41f",
+        "guidActor": "788cdbae-4004-46ee-b537-58e00edace85",
+        "name": "Lola Pennington",
+        "age": 55,
+        "weight": 148,
+        "isRetired": true,
+        "nationality": "Belize",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f341bfb66fe2c30c",
+        "guidActor": "e8aac7a2-f1de-4a02-8b93-90f184644159",
+        "name": "Dodson Sears",
+        "age": 40,
+        "weight": 92,
+        "isRetired": false,
+        "nationality": "Zambia",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921dd27147a7b842dc",
+        "guidActor": "208e68db-28a2-45f3-890d-60758e2f5ed2",
+        "name": "Benjamin Meadows",
+        "age": 63,
+        "weight": 104,
+        "isRetired": false,
+        "nationality": "Afghanistan",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92ee79764a51a4fc75",
+        "guid": "ab610928-4fdd-4fb0-98de-bfef9b2bfffe",
+        "name": "Porter Mckenzie",
+        "age": 28,
+        "weight": 64,
+        "isRetired": false,
+        "nationality": "Peru",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a922dba3a927211c7bf",
+      "guidDirector": "e87aa2c2-6da8-43fa-afe7-0ed34573ccc1",
+      "name": "Noreen Patrick",
+      "age": 42,
+      "weight": 70,
+      "isRetired": true,
+      "nationality": "Ghana",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92ef47c6bd0abafd8e",
+        "guidWriter": "431bd5e4-0d4c-4524-bc1c-ff51bb7431f5",
+        "name": "Lois Howe",
+        "age": 61,
+        "weight": 140,
+        "isRetired": true,
+        "nationality": "Solomon Islands",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9218703802ec1a020e",
+        "guidWriter": "133910aa-5aff-4f9d-b5a6-9353b33cd8ae",
+        "name": "Crane Lang",
+        "age": 34,
+        "weight": 131,
+        "isRetired": false,
+        "nationality": "Armenia",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Namibia",
+    "language": "French",
+    "platfotm": "ea",
+    "isMCU": true,
+    "mainCharacterName": "Elnora Kerr",
+    "producer": "cupidatat",
+    "distributor": "duis",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a92a8dbe6349141ad3d",
+    "guid": "6bf132ab-8f1a-445a-aaa1-78cdc25ce611",
+    "title": "Veniam esse deserunt excepteur ea do officia minim qui officia esse qui magna aliquip et.",
+    "actors": [
+      {
+        "idActor": "63a09a92f0b9bfcce99a425b",
+        "guidActor": "daec7ae7-451b-4e5f-b4ef-e3a935f09b01",
+        "name": "Hendrix Fry",
+        "age": 23,
+        "weight": 136,
+        "isRetired": true,
+        "nationality": "Zimbabwe",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a927dbf9edbb1fc5027",
+        "guidActor": "0a1a5311-346a-40fd-9aa7-54002703614b",
+        "name": "Sherrie Bass",
+        "age": 69,
+        "weight": 111,
+        "isRetired": false,
+        "nationality": "Guinea",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92dd98c17d9c03035b",
+        "guidActor": "0ce0f11c-ded8-4b3a-9567-2ec85734c15c",
+        "name": "Joyce Walton",
+        "age": 41,
+        "weight": 117,
+        "isRetired": true,
+        "nationality": "Fiji",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92ff88a6384aca5b56",
+        "guid": "20c65861-4ed0-4af4-a4fe-6ab6a51aae92",
+        "name": "Marquita Jennings",
+        "age": 48,
+        "weight": 91,
+        "isRetired": true,
+        "nationality": "Somalia",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9295b1d3cd969fd24c",
+      "guidDirector": "34970081-1e30-4f1d-a651-200b3b7914c5",
+      "name": "Mallory Chang",
+      "age": 40,
+      "weight": 84,
+      "isRetired": false,
+      "nationality": "Chad",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92c85defa1c588a25d",
+        "guidWriter": "2ac99804-90e7-416f-a836-178e3b54eb09",
+        "name": "Banks Carroll",
+        "age": 65,
+        "weight": 60,
+        "isRetired": true,
+        "nationality": "Israel",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92044efb052914db13",
+        "guidWriter": "99b01697-77e6-4450-9f9a-ab2fe6c6a392",
+        "name": "Therese Rogers",
+        "age": 34,
+        "weight": 96,
+        "isRetired": true,
+        "nationality": "Monaco",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2020,
+    "nationality": "Venezuela",
+    "language": "French",
+    "platfotm": "consectetur",
+    "isMCU": false,
+    "mainCharacterName": "Garcia Manning",
+    "producer": "consectetur",
+    "distributor": "Lorem",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92a23df40a6a41a65f",
+    "guid": "c644dffd-45f5-4a84-ada4-83072ba07192",
+    "title": "Dolore sunt voluptate minim consectetur esse minim eiusmod sit reprehenderit.",
+    "actors": [
+      {
+        "idActor": "63a09a92be3ebbeb4015bda7",
+        "guidActor": "b86f4882-29cf-4497-8e91-3a9f0263a717",
+        "name": "Vilma Cook",
+        "age": 37,
+        "weight": 143,
+        "isRetired": false,
+        "nationality": "Iran",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921965d2400c509e06",
+        "guidActor": "fd060073-6981-4da9-8c50-8a53e712be0c",
+        "name": "Gonzalez Osborn",
+        "age": 38,
+        "weight": 111,
+        "isRetired": true,
+        "nationality": "Mauritania",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92a3de6a7f7d6ddd9d",
+        "guidActor": "d5271d86-215f-42c3-9a46-7436971ec12b",
+        "name": "Bonita Macias",
+        "age": 38,
+        "weight": 114,
+        "isRetired": false,
+        "nationality": "Cameroon",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9227527c37b087b89c",
+        "guid": "ebbb553e-eedc-49c5-860f-11f9c530265b",
+        "name": "Perez Kramer",
+        "age": 66,
+        "weight": 148,
+        "isRetired": false,
+        "nationality": "St. Pierre and Miquelon",
+        "oscarNumber": 5,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92deb6303fe58baad5",
+      "guidDirector": "24fa3eaf-ce4e-42ff-b1a7-f3f4c5c85fe2",
+      "name": "Jewell Vang",
+      "age": 39,
+      "weight": 72,
+      "isRetired": false,
+      "nationality": "Uruguay",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a924cfa14f2952bf144",
+        "guidWriter": "f375f6f7-0f23-4290-a1a9-19b25d1e89f5",
+        "name": "Velasquez Witt",
+        "age": 24,
+        "weight": 150,
+        "isRetired": false,
+        "nationality": "Guadeloupe",
+        "oscarNumber": 6,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a920ac2ac37c0dbcec1",
+        "guidWriter": "7c8f5009-09fe-40f7-8d9f-2c7e3da428d0",
+        "name": "Catalina Barry",
+        "age": 40,
+        "weight": 135,
+        "isRetired": false,
+        "nationality": "France, Metropolitan",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2016,
+    "nationality": "Burundi",
+    "language": "Spanish",
+    "platfotm": "nisi",
+    "isMCU": false,
+    "mainCharacterName": "Kathy Ellis",
+    "producer": "culpa",
+    "distributor": "laboris",
+    "genre": "Drama"
+  },
+  {
+    "_id": "63a09a92dd05842d9aeb2103",
+    "guid": "000a830a-9e2c-403e-afd5-36fb37418a76",
+    "title": "Enim cillum deserunt aute eiusmod deserunt et excepteur.",
+    "actors": [
+      {
+        "idActor": "63a09a925bcd02ede2521e7c",
+        "guidActor": "e9571884-7845-48b6-9a90-67d369bed196",
+        "name": "Hanson Hess",
+        "age": 51,
+        "weight": 83,
+        "isRetired": true,
+        "nationality": "Switzerland",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92638a635cec2e698b",
+        "guidActor": "66a5b66e-9178-459a-a7d5-f7f76a966ac1",
+        "name": "Woods Mack",
+        "age": 31,
+        "weight": 69,
+        "isRetired": true,
+        "nationality": "Western Sahara",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a929f431f44562e70ce",
+        "guidActor": "7caf737a-c17b-481e-a382-dff00dfe31e7",
+        "name": "Thompson Hayden",
+        "age": 57,
+        "weight": 123,
+        "isRetired": false,
+        "nationality": "Faroe Islands",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a926caaf5fb79eac08b",
+        "guid": "34d74643-8ec6-4e9c-a09d-834cfb6adf49",
+        "name": "Walter Bishop",
+        "age": 47,
+        "weight": 79,
+        "isRetired": true,
+        "nationality": "Kazakhstan",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a9205ce1b9ea3483af9",
+      "guidDirector": "3c59cbc5-5ecd-4942-a399-8935c1fdbfa6",
+      "name": "Rachael Klein",
+      "age": 38,
+      "weight": 78,
+      "isRetired": true,
+      "nationality": "Zaire",
+      "oscarNumber": 6,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a921e587efe34f94b24",
+        "guidWriter": "7f3b47f2-0f2c-4466-abf3-e841d94133b8",
+        "name": "Casandra Kidd",
+        "age": 44,
+        "weight": 81,
+        "isRetired": true,
+        "nationality": "Kuwait",
+        "oscarNumber": 4,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9290d9cc8d131402d7",
+        "guidWriter": "1ec23b2e-45f5-4dce-9ae7-d78d0d36658c",
+        "name": "Gardner Martinez",
+        "age": 23,
+        "weight": 83,
+        "isRetired": true,
+        "nationality": "Lithuania",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2019,
+    "nationality": "Niue",
+    "language": "Spanish",
+    "platfotm": "exercitation",
+    "isMCU": true,
+    "mainCharacterName": "Marsha Massey",
+    "producer": "cillum",
+    "distributor": "dolor",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a9294202584075091bc",
+    "guid": "c5ad6cc3-f25a-45d3-810d-f1fe3910c2ce",
+    "title": "Quis magna do non sit aliqua labore adipisicing qui duis irure proident in aliqua officia.",
+    "actors": [
+      {
+        "idActor": "63a09a928425f3c722c155b1",
+        "guidActor": "7a98a62d-de85-4eed-8f2a-a48792649d68",
+        "name": "Enid Ross",
+        "age": 31,
+        "weight": 71,
+        "isRetired": false,
+        "nationality": "Nepal",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a926202de37a48ca3b7",
+        "guidActor": "b630138c-c806-4620-b9bc-eaaa5d968381",
+        "name": "Leah Hartman",
+        "age": 61,
+        "weight": 115,
+        "isRetired": false,
+        "nationality": "Swaziland",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a927adf3f89ee664ab7",
+        "guidActor": "2c6c74da-8327-4af9-87e7-f23c7ed0c475",
+        "name": "Raquel Miranda",
+        "age": 58,
+        "weight": 126,
+        "isRetired": false,
+        "nationality": "Austria",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92cbd739cfd4d52654",
+        "guid": "5824e390-d6d9-45b1-9e0a-4d45fd314113",
+        "name": "Mcmahon Wolfe",
+        "age": 68,
+        "weight": 119,
+        "isRetired": true,
+        "nationality": "British Indian Ocean Territory",
+        "oscarNumber": 2,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a924042c6289b2619a7",
+      "guidDirector": "38c67314-697c-4901-98e6-10ccf6035b90",
+      "name": "Mattie Gillespie",
+      "age": 34,
+      "weight": 136,
+      "isRetired": false,
+      "nationality": "Bermuda",
+      "oscarNumber": 7,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a92abd3fe9fb73bfb75",
+        "guidWriter": "c77179f9-9618-4f8a-b3d6-b7dc831de5c6",
+        "name": "Valerie Castro",
+        "age": 56,
+        "weight": 100,
+        "isRetired": true,
+        "nationality": "Martinique",
+        "oscarNumber": 1,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92927aa1f9d1b6453a",
+        "guidWriter": "1d6e8233-1c6a-4017-9dbe-c253326fba3b",
+        "name": "Natalie Espinoza",
+        "age": 45,
+        "weight": 114,
+        "isRetired": true,
+        "nationality": "Thailand",
+        "oscarNumber": 6,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2018,
+    "nationality": "Christmas Island",
+    "language": "Spanish",
+    "platfotm": "proident",
+    "isMCU": false,
+    "mainCharacterName": "Julianne Townsend",
+    "producer": "minim",
+    "distributor": "id",
+    "genre": "Suspense"
+  },
+  {
+    "_id": "63a09a92870899f8dab21426",
+    "guid": "da755665-4425-496f-a8de-842e762098ec",
+    "title": "Id ex deserunt laborum exercitation fugiat duis mollit ad non.",
+    "actors": [
+      {
+        "idActor": "63a09a92764a1efe5fddf1c4",
+        "guidActor": "c3116ce5-49a7-4800-9852-8d3dbced680a",
+        "name": "Love Jordan",
+        "age": 22,
+        "weight": 147,
+        "isRetired": false,
+        "nationality": "Virgin Islands (British)",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a9282a189cac1eb0e5b",
+        "guidActor": "72328f47-ea1b-47ea-a014-25c8942e1cd0",
+        "name": "Richards Juarez",
+        "age": 46,
+        "weight": 71,
+        "isRetired": false,
+        "nationality": "Egypt",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f2f57862ef2aa1c3",
+        "guidActor": "05e0f237-eb91-4c02-9637-8a87b2d9ccf9",
+        "name": "Reid Sparks",
+        "age": 63,
+        "weight": 109,
+        "isRetired": true,
+        "nationality": "Bahamas",
+        "oscarNumber": 4,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a921b448e403743a860",
+        "guid": "4af4e2da-8da0-46ac-ad68-7d6dc407616f",
+        "name": "Marian Stanton",
+        "age": 41,
+        "weight": 86,
+        "isRetired": false,
+        "nationality": "Gibraltar",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92d93550d8206036cd",
+      "guidDirector": "e32b539a-c56a-4921-bdaa-49a673b524d3",
+      "name": "Tania Kent",
+      "age": 49,
+      "weight": 130,
+      "isRetired": false,
+      "nationality": "India",
+      "oscarNumber": 2,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a927c5e73421872a2d5",
+        "guidWriter": "5f2d7cfe-f66c-4f8c-a410-e4dc81551bd4",
+        "name": "Annmarie Harrison",
+        "age": 31,
+        "weight": 78,
+        "isRetired": false,
+        "nationality": "Burkina Faso",
+        "oscarNumber": 3,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a9280428ec3d7d74417",
+        "guidWriter": "8ba93bfd-8bec-490e-b80c-cc994720fc15",
+        "name": "Lakeisha Arnold",
+        "age": 41,
+        "weight": 147,
+        "isRetired": false,
+        "nationality": "Ukraine",
+        "oscarNumber": 1,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2015,
+    "nationality": "Morocco",
+    "language": "French",
+    "platfotm": "proident",
+    "isMCU": false,
+    "mainCharacterName": "Elliott Hood",
+    "producer": "sint",
+    "distributor": "esse",
+    "genre": "Terror"
+  },
+  {
+    "_id": "63a09a920ef078d43bf0bd09",
+    "guid": "2c6dd0a0-0b24-4b5a-98ff-a950c200ce3a",
+    "title": "Laborum enim labore mollit duis velit enim.",
+    "actors": [
+      {
+        "idActor": "63a09a921bcf9b21e581ff91",
+        "guidActor": "d76284bb-7285-4b0d-aa9c-5477ac9337dd",
+        "name": "Abigail Calhoun",
+        "age": 41,
+        "weight": 100,
+        "isRetired": true,
+        "nationality": "Sao Tome and Principe",
+        "oscarNumber": 3,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a922b9e05e316b2f822",
+        "guidActor": "8c8d0006-7eab-45d1-96b2-c37f2a8ed61e",
+        "name": "House Barnes",
+        "age": 56,
+        "weight": 73,
+        "isRetired": false,
+        "nationality": "Japan",
+        "oscarNumber": 7,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92eef003b82266ca48",
+        "guidActor": "7b9989a8-a18e-4591-96f8-e75633d9e0a3",
+        "name": "Lena Trujillo",
+        "age": 20,
+        "weight": 148,
+        "isRetired": true,
+        "nationality": "Tonga",
+        "oscarNumber": 1,
+        "profession": "Actor"
+      },
+      {
+        "idActor": "63a09a92f23c803a015db69a",
+        "guid": "9069b9c9-dc52-4ec2-af72-eda49bbb8db7",
+        "name": "Fannie Wilkerson",
+        "age": 39,
+        "weight": 76,
+        "isRetired": false,
+        "nationality": "American Samoa",
+        "oscarNumber": 6,
+        "profession": "Actor"
+      }
+    ],
+    "director": {
+      "idDirector": "63a09a92d526a4601527d579",
+      "guidDirector": "55cedf7b-017d-4215-b618-cb96a1b604fc",
+      "name": "Ann Tate",
+      "age": 60,
+      "weight": 128,
+      "isRetired": false,
+      "nationality": "Sierra Leone",
+      "oscarNumber": 3,
+      "profession": "Director"
+    },
+    "writers": [
+      {
+        "idWriter": "63a09a9259ee6712d9184367",
+        "guidWriter": "68662dcf-e7c1-42d9-a542-b731777a7bb2",
+        "name": "Tabitha Kline",
+        "age": 67,
+        "weight": 79,
+        "isRetired": false,
+        "nationality": "Congo",
+        "oscarNumber": 5,
+        "profession": "writer"
+      },
+      {
+        "idWriter": "63a09a92710e2f1c9308cb91",
+        "guidWriter": "68e71661-118d-405f-b6f3-3892c7d66a61",
+        "name": "Fleming Mckay",
+        "age": 27,
+        "weight": 89,
+        "isRetired": false,
+        "nationality": "Saint Kitts and Nevis",
+        "oscarNumber": 7,
+        "profession": "writer"
+      }
+    ],
+    "releaseYear": 2014,
+    "nationality": "Marshall Islands",
+    "language": "French",
+    "platfotm": "ex",
+    "isMCU": true,
+    "mainCharacterName": "Eve Mosley",
+    "producer": "cillum",
+    "distributor": "occaecat",
+    "genre": "Terror"
+  }
+]

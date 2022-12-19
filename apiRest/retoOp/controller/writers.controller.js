@@ -1,5 +1,5 @@
 import express from 'express'
-import Peliculas from '../Peliculas.json' assert { type: 'json' }
+import Movies from '../Movies.json' assert { type: 'json' }
 
 export const getWriter = (req, res) => {
 
@@ -10,12 +10,12 @@ export const getWriter = (req, res) => {
     // Validamos si hemos recibido guid e idwriter 
     if (!guid || !idWriter) res.status(400).send('Es necesario enviar los campos')  
 
-    // Guardamos la pelicula que buscamos en la variable pelicula
-    let pelicula = Peliculas.find((pelicula) => pelicula.guid === guid)
+    // Guardamos la movie que buscamos en la variable movie
+    let movie = Movies.find((movie) => movie.guid === guid)
 
-    // Validamos, si la pelicula no existe respondemos com 204 no content
+    // Validamos, si la movie no existe respondemos com 204 no content
     let response
-    if (!pelicula) {
+    if (!movie) {
 
         response = {
             error: true,
@@ -27,8 +27,8 @@ export const getWriter = (req, res) => {
 
     }
 
-    // Validamos si el writer existe en la pelicula y respondemos
-    let writer = pelicula.writers.find((writer) => writer.idWriter === idWriter)
+    // Validamos si el writer existe en la movie y respondemos
+    let writer = movie.writers.find((writer) => writer.idWriter === idWriter)
     if (writer) {
 
         response = {
@@ -57,19 +57,19 @@ export const getWriter = (req, res) => {
 
 export const postWriter = (req, res) => {
 
-    // capturamos el guid de la pelicula
+    // capturamos el guid de la movie
     const { guid, idWriter, guidWriter, name, age, weight, isRetired, nationality, oscarNumber, profession} = req.body
     console.log(guid);
     
     // Validamos que se introducen los datos obligatorios del nuevo writer
     if (!idWriter || !guidWriter || !name) return res.status(400).send('El writer debe tener al menos id, guid y nombre')
     
-    // guardamos la pelicula en memoria
-    let pelicula = Peliculas.find((pelicula) => pelicula.guid === guid)
-    if (!pelicula) return res.status(404).send('La pelicula no existe')
+    // guardamos la movie en memoria
+    let movie = Movies.find((movie) => movie.guid === guid)
+    if (!movie) return res.status(404).send('La movie no existe')
 
     // Comprobamos si el writer ya exite y enviamos la respuesta
-    let writer = pelicula.writers.find((writer) => writer.idWriter === idWriter)
+    let writer = movie.writers.find((writer) => writer.idWriter === idWriter)
     let response
     if (writer) {
 
@@ -82,7 +82,7 @@ export const postWriter = (req, res) => {
     } else {
 
         // Añadimos los datos recibidos al array
-        pelicula.writers.push({
+        movie.writers.push({
             idWriter,
             guidWriter,
             name,
@@ -111,27 +111,26 @@ export const postWriter = (req, res) => {
             }
         }
         
-        
-        res.send(response)
     }
-
+    
+    res.send(response)
 }
 
 export const putWriter = (req, res) => {
 
-    // capturamos el guid de la pelicula
+    // capturamos el guid de la movie
     const { guid, idWriter, guidWriter, name, age, weight, isRetired, nationality, oscarNumber, profession} = req.body
     console.log(guid);
 
     // Validamos que se introducen los datos obligatorios para buscar el writer a modificar
-    if (!idWwriter || !guid) return res.status(400).send('El writer debe tener al menos guid de la pelicula e id del writer')
+    if (!idWwriter || !guid) return res.status(400).send('El writer debe tener al menos guid de la movie e id del writer')
 
-    // guardamos la pelicula en memoria
-    let pelicula = Peliculas.find((pelicula) => pelicula.guid === guid)
-    if (!pelicula) return res.status(404).send('La pelicula no existe')
+    // guardamos la movie en memoria
+    let movie = Movies.find((movie) => movie.guid === guid)
+    if (!movie) return res.status(404).send('La movie no existe')
 
     // Comprobamos si el writer ya exite y enviamos la respuesta
-    let writer = pelicula.writers.find((writer) => writer.idWriter === idWriter)
+    let writer = movie.writers.find((writer) => writer.idWriter === idWriter)
     let response
     if (writer) {
 
@@ -170,21 +169,21 @@ export const putWriter = (req, res) => {
 
 export const deleteWriter = (req, res) => {
 
-    // capturamos el guid de la pelicula
+    // capturamos el guid de la movie
     const { guid, idWriter } = req.body
 
-    // guardamos la pelicula en memoria
-    let pelicula = Peliculas.find((pelicula) => pelicula.guid === guid)
-    if (!pelicula) return res.status(404).send('La pelicula no existe')
+    // guardamos la movie en memoria
+    let movie = Movies.find((movie) => movie.guid === guid)
+    if (!movie) return res.status(404).send('La movie no existe')
 
     // Comprobamos si el writer exite y enviamos la respuesta
-    let writer = pelicula.writers.find((writer) => writer.idWriter === idWriter)
+    let writer = movie.writers.find((writer) => writer.idWriter === idWriter)
     let response
     if (writer) {
 
-        // Eliminamos el writer de la pelicula
-        let indexWriter = pelicula.writers.findIndex((writer) => writer.idWriter === idWriter )
-        pelicula.writers.splice(indexWriter, 1)
+        // Eliminamos el writer de la movie
+        let indexWriter = movie.writers.findIndex((writer) => writer.idWriter === idWriter )
+        movie.writers.splice(indexWriter, 1)
 
         response = {
             error: false,

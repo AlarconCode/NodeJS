@@ -1,18 +1,18 @@
 import express from 'express'
-import Peliculas from '../Peliculas.json' assert { type: 'json' }
+import Movies from '../Movies.json' assert { type: 'json' }
 
 
-export const getPelicula = (req, res) => {
+export const getMovie = (req, res) => {
         
     // field guid of movie by params
     const {guid} = req.params
 
     // Found the movie in BBDD
-    let pelicula = Peliculas.find((pelicula) => pelicula.guid === guid)
+    let movie = Movies.find((movie) => movie.guid === guid)
 
     // Validate Movie and response
     let response 
-    if (!pelicula) {
+    if (!movie) {
 
         response = {
             error: true,
@@ -26,7 +26,7 @@ export const getPelicula = (req, res) => {
             error: false,
             code: 200,
             message: 'Movie has been found',
-            pelicula: pelicula
+            movie: movie
         }
 
     }
@@ -35,33 +35,33 @@ export const getPelicula = (req, res) => {
 
 }
 
-export const postPelicula = (req, res) => {
+export const postMovie = (req, res) => {
 
-    // fields of pelicula by body
+    // fields of movie by body
     const {
         _id, 
         guid, 
         title, 
         releaseYear, 
         nationality, 
-        lenguaje, 
+        language, 
         platform, 
         isMCU, 
         mainCharacterName, 
         producer, 
         distributor, 
-        gendre
+        genre
     } = req.body
 
     // The request should be id, guid and name for to be post
     if (!_id || !guid || !title) return res.status(400).send('You must add at least one id, guid and name')
 
     // We found the movie in BBDD
-    let pelicula = Peliculas.find((pelicula) => pelicula.guid === guid)
+    let movie = Movies.find((movie) => movie.guid === guid)
 
     // Validate and reponse
     let response
-    if (pelicula) {
+    if (movie) {
 
         response = {
             error: true,
@@ -71,20 +71,20 @@ export const postPelicula = (req, res) => {
 
     } else {
 
-        Peliculas.push(
+        Movies.push(
             {
                 _id,
                 guid,
                 title, 
                 releaseYear, 
                 nationality, 
-                lenguaje, 
+                language, 
                 platform, 
                 isMCU, 
                 mainCharacterName, 
                 producer, 
                 distributor, 
-                gendre
+                genre
             }
         )
 
@@ -92,19 +92,19 @@ export const postPelicula = (req, res) => {
             error: false,
             code: 200,
             message: 'The Movie has been created in BBDD',
-            pelicula: {
+            movie: {
                 _id,
                 guid,
                 title, 
                 releaseYear, 
                 nationality, 
-                lenguaje, 
+                language, 
                 platform, 
                 isMCU, 
                 mainCharacterName, 
                 producer, 
                 distributor, 
-                gendre
+                genre
             }
         }
         
@@ -114,30 +114,30 @@ export const postPelicula = (req, res) => {
 
 }
 
-export const putPelicula = (req, res) => {
+export const putMovie = (req, res) => {
 
-    // fields of pelicula by body
+    // fields of movie by body
     const {
         _id, 
         guid, 
         title, 
         releaseYear, 
         nationality, 
-        lenguaje, 
+        language, 
         platform, 
         isMCU, 
         mainCharacterName, 
         producer, 
         distributor, 
-        gendre
+        genre
     } = req.body
 
     // We found the movie in BBDD by guid
-    let pelicula = Peliculas.find((pelicula) => pelicula.guid === guid)
+    let movie = Movies.find((movie) => movie.guid === guid)
 
     // Validate and reponse
     let response
-    if (!pelicula) {
+    if (!movie) {
 
         response = {
             error: true,
@@ -147,23 +147,23 @@ export const putPelicula = (req, res) => {
 
     } else {
 
-            if (_id) pelicula._id = _id
-            if (title) pelicula.title = title 
-            if (releaseYear) pelicula.releaseYear = releaseYear 
-            if (nationality) pelicula.nationality = nationality 
-            if (lenguaje) pelicula.lenguaje = lenguaje 
-            if (platform) pelicula.platfotm = platform 
-            if (isMCU) pelicula.isMCU = isMCU
-            if (mainCharacterName) pelicula.mainCharacterName = mainCharacterName
-            if (producer) pelicula.producer = producer 
-            if (distributor) pelicula.distributor = distributor
-            if (gendre) pelicula.gendre = gendre
+            if (_id) movie._id = _id
+            if (title) movie.title = title 
+            if (releaseYear) movie.releaseYear = releaseYear 
+            if (nationality) movie.nationality = nationality 
+            if (language) movie.language = language 
+            if (platform) movie.platfotm = platform 
+            if (isMCU) movie.isMCU = isMCU
+            if (mainCharacterName) movie.mainCharacterName = mainCharacterName
+            if (producer) movie.producer = producer 
+            if (distributor) movie.distributor = distributor
+            if (genre) movie.genre = genre
 
         response = {
             error: false,
             code: 200,
             message: 'The Movie has been modified in BBDD',
-            pelicula: pelicula
+            movie: movie
         }
         
     }
@@ -172,17 +172,17 @@ export const putPelicula = (req, res) => {
 
 }
 
-export const deletePelicula = (req, res) => {
+export const deleteMovie = (req, res) => {
 
-    // Guid pelicula by body
-    let { guid } = req.params
+    // Guid movie by body
+    let { guid } = req.query
     
-    // Found index pelicula in BBDD
-    let peliculaIndex = Peliculas.findIndex((pelicula) => pelicula.guid === guid)
+    // Found index movie in BBDD
+    let movieIndex = Movies.findIndex((movie) => movie.guid === guid)
 
     // Validate and response
     let response
-    if (peliculaIndex == -1) {
+    if (movieIndex == -1) {
 
         response = {
             error: true,
@@ -193,7 +193,7 @@ export const deletePelicula = (req, res) => {
     } else {
         
         // Deleted Movie
-        Peliculas.splice(peliculaIndex, 1)
+        Movies.splice(movieIndex, 1)
         
         response = {
             error: false,

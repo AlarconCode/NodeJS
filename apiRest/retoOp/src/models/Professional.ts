@@ -2,6 +2,7 @@
 
 export class Professional {
 
+    public idActor:string
     public name:string
     public age:number
     public weight:number
@@ -10,8 +11,9 @@ export class Professional {
     public oscarsNumber:number
     public profession:string
 
-    constructor (name:string, age:number, weight:number, isRetired:boolean, nationality:string, oscarsNumber:number, profession:string) {
+    constructor (idActor:string, name:string, age:number, weight:number, isRetired:boolean, nationality:string, oscarsNumber:number, profession:string) {
 
+        this.idActor = idActor
         this.name = name
         this.age = age
         this.weight = weight

@@ -1,4 +1,5 @@
 import Movies from '../Movies.json' assert { type: 'json' }
+import { v4 as uuidv4 } from 'uuid'
 
 export const getMovie = (req, res) => {
         
@@ -37,8 +38,7 @@ export const postMovie = (req, res) => {
 
     // fields of movie by body
     const {
-        _id, 
-        guid, 
+        idMovie,  
         title, 
         releaseYear, 
         nationality, 
@@ -51,14 +51,26 @@ export const postMovie = (req, res) => {
         genre
     } = req.body
 
+    let guidMovie = uuidv4()
+
+    let response
     // The request should be id, guid and name for to be post
-    if (!_id || !guid || !title) return res.status(400).send('You must add at least one id, guid and name')
+    if (idMovie == null || title == null) {
+
+        response = {
+            error: true,
+            code: 409,
+            message: 'Debes añadir un id y un titulo a la pelicula'
+        }
+
+        return res.send(response)
+        
+    } 
 
     // We found the movie in BBDD
-    let movie = Movies.find((movie) => movie.guid === guid)
+    let movie = Movies.find((movie) => movie.idMovie === idMovie)
 
     // Validate and reponse
-    let response
     if (movie) {
 
         response = {
@@ -71,9 +83,9 @@ export const postMovie = (req, res) => {
 
         Movies.push(
             {
-                _id,
-                guid,
-                title, 
+                idMovie,
+                guidMovie,
+                title,
                 releaseYear, 
                 nationality, 
                 language, 
@@ -82,7 +94,7 @@ export const postMovie = (req, res) => {
                 mainCharacterName, 
                 producer, 
                 distributor, 
-                genre
+                genre,
             }
         )
 
@@ -91,8 +103,8 @@ export const postMovie = (req, res) => {
             code: 200,
             message: 'The Movie has been created in BBDD',
             movie: {
-                _id,
-                guid,
+                idMovie,
+                guidMovie,
                 title, 
                 releaseYear, 
                 nationality, 
@@ -102,13 +114,13 @@ export const postMovie = (req, res) => {
                 mainCharacterName, 
                 producer, 
                 distributor, 
-                genre
+                genre,genre
             }
         }
         
     }
     
-    res.send(response)
+    return res.send(response)
 
 }
 
@@ -116,8 +128,7 @@ export const putMovie = (req, res) => {
 
     // fields of movie by body
     const {
-        _id, 
-        guid, 
+        idMovie,  
         title, 
         releaseYear, 
         nationality, 
@@ -130,8 +141,8 @@ export const putMovie = (req, res) => {
         genre
     } = req.body
 
-    // We found the movie in BBDD by guid
-    let movie = Movies.find((movie) => movie.guid === guid)
+    // We found the movie in BBDD by idMovie
+    let movie = Movies.find((movie) => movie.idMovie === idMovie)
 
     // Validate and reponse
     let response
@@ -145,12 +156,11 @@ export const putMovie = (req, res) => {
 
     } else {
 
-            if (_id) movie._id = _id
             if (title) movie.title = title 
             if (releaseYear) movie.releaseYear = releaseYear 
             if (nationality) movie.nationality = nationality 
             if (language) movie.language = language 
-            if (platform) movie.platfotm = platform 
+            if (platform) movie.platform = platform 
             if (isMCU) movie.isMCU = isMCU
             if (mainCharacterName) movie.mainCharacterName = mainCharacterName
             if (producer) movie.producer = producer 
@@ -173,10 +183,10 @@ export const putMovie = (req, res) => {
 export const deleteMovie = (req, res) => {
 
     // Guid movie by body
-    let { guid } = req.query
+    let { title } = req.query
     
     // Found index movie in BBDD
-    let movieIndex = Movies.findIndex((movie) => movie.guid === guid)
+    let movieIndex = Movies.findIndex((movie) => movie.title === title)
 
     // Validate and response
     let response

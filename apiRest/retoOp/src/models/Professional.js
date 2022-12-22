@@ -1,6 +1,7 @@
 //  Class Professional
 export class Professional {
-    constructor(name, age, weight, isRetired, nationality, oscarsNumber, profession) {
+    constructor(idActor, name, age, weight, isRetired, nationality, oscarsNumber, profession) {
+        this.idActor = idActor;
         this.name = name;
         this.age = age;
         this.weight = weight;

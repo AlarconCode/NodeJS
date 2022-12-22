@@ -4,6 +4,8 @@ import { Professional } from "./Professional"
 
 export class Movie {
 
+    public idMovie:string
+    public guidMovie:string
     public title:string
     public releaseYear:number
     public actors:Professional[]
@@ -18,8 +20,10 @@ export class Movie {
     public distributor:string
     public genre:string
 
-    constructor(title:string, releaseYear:number, nationality:string, genre:string, actors:Professional[], director:Professional, writers:Professional[], language:string, platform:string, isMCU:boolean, mainCharacterName:string, producer:string, distributor:string) {
+    constructor(idMovie:string, guidMovie:string, title:string, releaseYear:number, nationality:string, genre:string, actors:Professional[], director:Professional, writers:Professional[], language:string, platform:string, isMCU:boolean, mainCharacterName:string, producer:string, distributor:string) {
 
+        this.idMovie = idMovie
+        this.guidMovie = guidMovie
         this.title = title
         this.releaseYear = releaseYear
         this.actors = actors

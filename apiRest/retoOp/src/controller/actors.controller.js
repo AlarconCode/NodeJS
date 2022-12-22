@@ -4,13 +4,13 @@ import Movies from '../Movies.json' assert { type: 'json' }
 export const getActor = (req, res) => {
         
     // datos de la request
-    const { guid, idActor } = req.query
+    const { idMovie, idActor } = req.query
 
     // Validamos si hemos recibido guid e idActor 
-    if (!guid || !idActor) res.status(400).send('Es necesario enviar los campos')  
+    if (idMovie || !idActor) res.status(400).send('Es necesario enviar los campos')  
 
     // Guardamos la movie que buscamos en la variable movie
-    let movie = Movies.find((movie) => movie.guid === guid)
+    let movie = Movies.find((movie) => movie.idMovie === idMovie)
 
     // Validamos, si la movie no existe respondemos com 204 no content
     let response
@@ -19,7 +19,7 @@ export const getActor = (req, res) => {
         response = {
             error: true,
             code: 204,
-            message: 'La movie no existe'
+            message: 'La película no existe'
         }
 
         res.status(204).send(response)
@@ -60,13 +60,13 @@ export const getActor = (req, res) => {
 export const postActor = (req, res) => {
 
     // capturamos el guid de la movie
-    const { guid, idActor, guidActor, name, age, weight, isRetired, nationality, oscarNumber, profession} = req.body
+    const { idMovie, idActor, name, age, height, isRetired, nationality, oscarNumber, profession} = req.body
     
     // Validamos que se introducen los datos obligatorios del nuevo actor
-    if (!idActor || !guidActor || !name) return res.status(400).send('El Actor debe tener al menos id, guid y nombre')
+    if (!idActor || !name) return res.status(400).send('El Actor debe tener al menos id y nombre')
     
     // guardamos la movie en memoria
-    let movie = Movies.find((movie) => movie.guid === guid)
+    let movie = Movies.find((movie) => movie.idMovie === idMovie)
     if (!movie) return res.status(404).send('La movie no existe')
 
     // Comprobamos si el actor ya exite y enviamos la respuesta
@@ -85,10 +85,9 @@ export const postActor = (req, res) => {
         // Añadimos los datos recibidos al array
         movie.actors.push({
             idActor,
-            guidActor,
             name,
             age,
-            weight,
+            height,
             isRetired,
             nationality,
             oscarNumber,
@@ -101,10 +100,9 @@ export const postActor = (req, res) => {
             message: 'The Actor has been created successfully',
             actor: {
                 idActor,
-                guidActor,
                 name,
                 age,
-                weight,
+                height,
                 isRetired,
                 nationality,
                 oscarNumber,

@@ -13,17 +13,17 @@
         <div class="row">
             <nav class="navbar col-sm navbar-expand-lg bg-light">
                 <div class="container-fluid">
-                  <a class="navbar-brand" href="#">MovieLand</a>
+                  <a class="navbar-brand" href="index.html">MovieLand</a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Movies</a>
+                        <a class="nav-link active" aria-current="page" href="index.html">Movies</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#">Actors</a>
+                        <a class="nav-link" href="actors.html">Actors</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link">Directors</a>
@@ -40,102 +40,51 @@
                 </div>
               </nav>
         </div>
-        <div class="row">
+        <div class="row" style="background-color: rgba(0,50,60,.3)">
 
-          <div class="col-sm-4 p-4">
+          <div class="col-sm-3 p-4">
 
-            <div class="accordion" id="accordionPanelsStayOpenExample">
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="panelsStayOpen-headingOne">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                      Mostrar Película
-                    </button>
-                  </h2>
-                  <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
-                    <div class="accordion-body">
-                        <form method="GET">
-                            <input type="text" class="form-control" id="titleShow" placeholder="Título de la película" required>
-                            <button type="submit" class="btn btn-primary mt-3" onclick="showMovie()">Mostrar</button>  
-                        </form>
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                      Añadir Película
-                    </button>
-                  </h2>
-                  <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
-                    <div class="accordion-body">
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="titleAdd" placeholder="Título de la película" required>
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="releaseYearAdd" placeholder="Año de Lanzamiento">
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="nationalityAdd" placeholder="País">
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="languageAdd" placeholder="Idioma original">
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="platformAdd" placeholder="Plataforma">
-                        <div class="form-check form-switch mt-4">
-                            <input class="form-check-input" type="checkbox" id="isMCU-Add">
-                            <label class="form-check-label" for="isMCU-Add">Universo Marvel</label>
-                        </div>
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Actor Principal" required>
-                        <button type="submit" class="btn btn-primary mt-4">Añadir</button>
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="panelsStayOpen-headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-                      Modificar Película
-                    </button>
-                  </h2>
-                  <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
-                    <div class="accordion-body">
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="titleModify" placeholder="Título de la película" required>
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="releaseYearModify" placeholder="Año de Lanzamiento">
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="nationalityModify" placeholder="País">
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="languageModify" placeholder="Idioma original">
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="platformModify" placeholder="Plataforma">
-                        <div class="form-check form-switch mt-4">
-                            <input class="form-check-input" type="checkbox" id="isMCU-Modify">
-                            <label class="form-check-label" for="isMCU-Modify">Universo Marvel</label>
-                        </div>
-                        <label for="inputEmail4" class="form-label"></label>
-                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Actor Principal" required>
-                        <button type="submit" class="btn btn-primary mt-4">Modificar</button>
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="panelsStayOpen-headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-                      Eliminar Película
-                    </button>
-                  </h2>
-                  <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
-                    <div class="accordion-body">
-                        <input type="text" class="form-control" id="titleDelete" placeholder="Título de la película" required>
-                        <button type="submit" class="btn btn-primary mt-3">Eliminar</button>  
-                    </div>
-                  </div>
-                </div>
+            <div class="accordion-body">
+              <h2>Películas</h2>
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="idMovie" placeholder="id de la película" required>
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="title" placeholder="Título de la película" required>
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="releaseYear" placeholder="Año de Lanzamiento">
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="nationality" placeholder="País">
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="language" placeholder="Idioma original">
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="platform" placeholder="Plataforma">
+              <div class="form-check form-switch mt-4">
+                  <input class="form-check-input" type="checkbox" id="isMCU">
+                  <label class="form-check-label" for="isMCU">Universo Marvel</label>
               </div>
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="mainCharacterName" placeholder="Actor Principal" required>
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="producer" placeholder="Productor">
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="distributor" placeholder="Distribuidor">
+              <label for="" class="form-label"></label>
+              <input type="text" class="form-control" id="genre" placeholder="Genero">
+            </div>
+            <button type="submit" class="btn btn-primary mt-3" id="Show">Mostrar</button> 
+            <button type="button" class="btn btn-primary mt-3" id="Add">Añadir</button>
+            <button type="button" class="btn btn-primary mt-3" id="Modify">Modificar</button> 
+            <button type="button" class="btn btn-primary mt-3 bg-danger" id="Delete">Eliminar</button>        
             
           </div>
-          <div class="col-sm bg-danger" id="main">col-sm</div>
+          <div class="col-sm-9 p-2 d-lg-flex flex-wrap justify-content-around" style="background-color: rgba(0,50,60,.3)" id="container">
+          
+                 
+
+          </div>
         </div>
       </div>
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-      <script src="./index.js"></script>
+      <script type="module" src="./index.js"></script>
 </body>
 </html>

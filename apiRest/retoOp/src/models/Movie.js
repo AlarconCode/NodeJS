@@ -1,6 +1,8 @@
 // class Movie
 export class Movie {
-    constructor(title, releaseYear, nationality, genre, actors, director, writers, language, platform, isMCU, mainCharacterName, producer, distributor) {
+    constructor(idMovie, guidMovie, title, releaseYear, nationality, genre, actors, director, writers, language, platform, isMCU, mainCharacterName, producer, distributor) {
+        this.idMovie = idMovie;
+        this.guidMovie = guidMovie;
         this.title = title;
         this.releaseYear = releaseYear;
         this.actors = actors;

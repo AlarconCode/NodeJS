@@ -19,9 +19,14 @@
 }
 
 .card-activity {
-    background-color: orange;
+    border: solid 1px orange;
+    border-radius: 20px;
     width: 30%;
     height: 200px;
     padding: 20px;
 
+}
+
+.getOut {
+    display: none;
 }

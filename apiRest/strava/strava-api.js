@@ -1,3 +1,5 @@
+// const { query } = require("express");
+
 const auth_link = 'https://www.strava.com/oauth/token'
 
 const getActivities = async (token) => {
@@ -7,59 +9,54 @@ const getActivities = async (token) => {
     try {
         let before = Date.now()
         console.log(before);
-        const urlList1 = `https://www.strava.com/api/v3/athlete/activities?before=${Date.parse('2023/1/1')}&page=10&per_page=30&access_token=${token.access_token}`
-        let resList = await fetch(urlList1)
-        let listActivities = await resList.json()
-        console.log(listActivities);
-
-
-        const urlPage = `https://www.strava.com/api/v3/activities/${listActivities[29].id}?include_all_efforts=true&access_token=${token.access_token}`
-        let resAct = await fetch(urlPage)
-        let activity = resAct.json()
-        console.log(activity);
-
-
+        
+        let listActivities = []
+        let control = true
+        let page = 1
+        while (control) {
+    
+            const url = `https://www.strava.com/api/v3/athlete/activities?page=${page}&per_page=50&access_token=${token.access_token}`
+            let resList = await fetch(url)
+            let activities = await resList.json()
+            
+            if ( !activities.length ) {
+                control = false
+            } else {
+                
+                console.log(activities);
+                for (let i=0; i < activities.length; i++) {
+                    listActivities.push(activities[i])
+                }
+                
+                page++
+            }            
+        
+        }
+        
         const container = document.getElementById('container')
     
         listActivities.forEach(activity => {
         container.innerHTML += `
         <div class="card-activity">
             <h2 class="title">${activity.name}</h2>
-            <p>Distancia: ${activity.distance/1000}kms</p>
+            <p>Distancia: ${Math.floor(activity.distance)/1000}kms</p>
             <p>Fecha:${activity.start_date}</p>
         </div>    
         `
        });
+       
     }
     
     catch (error) {
         console.log(error);
-    }
-    
-    // try {
-    //     let before = new Date(2022,9,10)
-    //     console.log(before);
-    //     const urlList1 = `https://www.strava.com/api/v3/athlete/activities?before=${before.getTime()}&access_token=${token.access_token}`
-    //     let resList = await fetch(urlList1)
-    //     let listActivities = await resList.json()
-    //     console.log(listActivities);
-
-    //     const container = document.getElementById('app')
-    
-    //     listActivities.forEach(activity => {
-    //     container.innerHTML += `
-    //     <h1>Segundo</h1>
-    //     <h2>${activity.name}<span>  Distancia: ${activity.distance}</span></h2>
-    //     <a href="">ver más</a>
-    //     `
-    //     });
-    // }  catch (error) {
-    //     console.log(error);
-    // } 
-
-    
+    }    
 
 }
+
+        // const urlPage = `https://www.strava.com/api/v3/activities/${listActivities[29].id}?include_all_efforts=true&access_token=${token.access_token}`
+        // let resAct = await fetch(urlPage)
+        // let activity = resAct.json()
+        // console.log(activity);
 
 
 const reAuthorize = async () => {
@@ -92,7 +89,12 @@ const reAuthorize = async () => {
 
 }
     
-reAuthorize()
+// reAuthorize()
+
+let myActivities = document.getElementById('activities')
+myActivities.addEventListener('click', () => {
+    reAuthorize()
+})
 
     
 const urlCode = 'http://www.strava.com/oauth/authorize?client_id=98933&response_type=code&redirect_uri=http://localhost:5500/exchange_token&approval_prompt=force&scope=activity:read_all'
